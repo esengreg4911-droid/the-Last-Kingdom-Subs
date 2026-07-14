@@ -126,7 +126,7 @@ python translate_srt.py "字幕.srt" --glossary "术语表.json"
 <div align="center">
 
 <!-- 把 SRT 双语字幕的效果图放到 images 文件夹, 并改成对应文件名 -->
-<img src="images/srt-preview.png" alt="SRT 双语字幕效果" width="720">
+<img src="Tools/images/srt-preview.png" alt="SRT 双语字幕效果" width="720">
 
 <sub>SRT 双语字幕效果</sub>
 
@@ -153,7 +153,7 @@ python srt2ass.py "字幕.zh-en.srt" "字幕.ass"
 <div align="center">
 
 <!-- 把 ASS 带样式字幕的效果图放到 images 文件夹, 并改成对应文件名 -->
-<img src="images/ass-preview.png" alt="ASS 带样式字幕效果" width="720">
+<img src="Tools/images/ass-preview.png" alt="ASS 带样式字幕效果" width="720">
 
 <sub>ASS 带样式字幕效果 (中英不同字体/颜色)</sub>
 
@@ -202,7 +202,7 @@ python ass2sup.py "字幕.ass" -v 1080p -f 23.976
 <div align="center">
 
 <!-- 把 SUP 蓝光图形字幕的效果图放到 images 文件夹, 并改成对应文件名 -->
-<img src="images/sup-preview.png" alt="SUP 蓝光 PGS 字幕效果" width="720">
+<img src="Tools/images/sup-preview.png" alt="SUP 蓝光 PGS 字幕效果" width="720">
 
 <sub>SUP 蓝光 PGS 图形字幕效果</sub>
 
