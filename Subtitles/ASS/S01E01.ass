@@ -1,0 +1,749 @@
+﻿[Script Info]
+Title: Styled Subtitle
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Chinese,Microsoft YaHei,55,&H00E0F2F8,&H000000FF,&H0010161F,&H64000000,0,0,0,0,100,100,0,0,1,2,1,2,120,120,60,1
+Style: English,Times New Roman,40,&H00A8D6E6,&H000000FF,&H0010161F,&H64000000,0,0,0,0,100,100,0,0,1,2,1,2,120,120,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:08.20,0:00:09.88,Chinese,,0,0,0,,{\rChinese}小子！\N{\rEnglish}(LORD UHTRED) Boy!
+Dialogue: 0,0:00:10.20,0:00:12.77,Chinese,,0,0,0,,{\rChinese}潮水要转了!\N{\rEnglish}The tide is on the turn!
+Dialogue: 0,0:00:14.40,0:00:16.16,Chinese,,0,0,0,,{\rChinese}我不会再警告你第二次!\N{\rEnglish}I'm not warning you again!
+Dialogue: 0,0:00:18.96,0:00:20.80,Chinese,,0,0,0,,{\rChinese}船!在那儿!\N{\rEnglish}(OSBERT) Ships! There!
+Dialogue: 0,0:00:27.68,0:00:29.44,Chinese,,0,0,0,,{\rChinese}丹麦人\N{\rEnglish}Danes.
+Dialogue: 0,0:00:29.60,0:00:31.28,Chinese,,0,0,0,,{\rChinese}魔鬼的走狗\N{\rEnglish}The devil's turds.
+Dialogue: 0,0:00:31.44,0:00:34.89,Chinese,,0,0,0,,{\rChinese}- 他们是商人吗? - 不,他们是来劫掠的维京人!\N{\rEnglish}- Are they traders? - No. They come as Vikings!
+Dialogue: 0,0:00:35.04,0:00:36.88,Chinese,,0,0,0,,{\rChinese}走!\N{\rEnglish}We go!
+Dialogue: 0,0:00:39.12,0:00:40.88,Chinese,,0,0,0,,{\rChinese}走!走!\N{\rEnglish}Go! Go!
+Dialogue: 0,0:01:01.28,0:01:03.17,Chinese,,0,0,0,,{\rChinese}抓紧!\N{\rEnglish}(MAN) Hold on!
+Dialogue: 0,0:01:03.36,0:01:05.65,Chinese,,0,0,0,,
+Dialogue: 0,0:01:08.76,0:01:10.28,Chinese,,0,0,0,,
+Dialogue: 0,0:01:28.00,0:01:29.73,Chinese,,0,0,0,,{\rChinese}我儿子在哪?\N{\rEnglish}(LORD UHTRED) Where's my son?
+Dialogue: 0,0:01:29.88,0:01:33.28,Chinese,,0,0,0,,{\rChinese}乌特雷德,带六个人骑马去河边\N{\rEnglish}Uhtred. Take half a dozen men, ride to the river.
+Dialogue: 0,0:01:33.44,0:01:36.01,Chinese,,0,0,0,,{\rChinese}那里有异教徒,盯着他们，看清楚有多少人\N{\rEnglish}There are pagans there. Watch them, see how many.
+Dialogue: 0,0:01:36.16,0:01:37.89,Chinese,,0,0,0,,{\rChinese}- 明白 - 不要多生事端\N{\rEnglish}- Of course. - Do nothing more.
+Dialogue: 0,0:01:38.04,0:01:40.17,Chinese,,0,0,0,,{\rChinese}是,父亲\N{\rEnglish}(UHTRED) Yes, Father. (GLENNA) Osbert.
+Dialogue: 0,0:01:40.32,0:01:42.48,Chinese,,0,0,0,,{\rChinese}- 怎么了? - 有船，我看见了\N{\rEnglish}- What is it? - Ships. I saw them.
+Dialogue: 0,0:01:42.64,0:01:45.61,Chinese,,0,0,0,,{\rChinese}- 什么船? - 丹麦人，正朝河这边来\N{\rEnglish}- What ships? - Danes. They're heading for the river.
+Dialogue: 0,0:01:45.80,0:01:47.13,Chinese,,0,0,0,,
+Dialogue: 0,0:01:47.28,0:01:49.85,Chinese,,0,0,0,,{\rChinese}愿天主与众圣人保佑我们,他们没有灵魂\N{\rEnglish}God and his saints preserve us. They have no soul.
+Dialogue: 0,0:01:50.00,0:01:51.84,Chinese,,0,0,0,,{\rChinese}- 我们该祈祷 - 我们该行动\N{\rEnglish}- We must pray. - We must act.
+Dialogue: 0,0:01:52.00,0:01:54.61,Chinese,,0,0,0,,{\rChinese}乌特雷德，不许和他们交战，一个都不行\N{\rEnglish}Uhtred. Do not fight them, not a single one.
+Dialogue: 0,0:01:54.76,0:01:56.28,Chinese,,0,0,0,,{\rChinese}- 天黑前回来 - 是\N{\rEnglish}- Be back by nightfall. - Yes.
+Dialogue: 0,0:01:56.44,0:01:58.92,Chinese,,0,0,0,,{\rChinese}他们是天主降下的惩罚,为了我们的罪孽\N{\rEnglish}They are sent by God to punish us for our sins.
+Dialogue: 0,0:01:59.08,0:02:01.81,Chinese,,0,0,0,,{\rChinese}他们是来支援约克的维京军队的\N{\rEnglish}They're here to support the Viking army in Eofervvic.
+Dialogue: 0,0:02:01.96,0:02:04.44,Chinese,,0,0,0,,{\rChinese}让神父去祈祷，求天主救我们\N{\rEnglish}Instruct the priest to pray for our deliverance.
+Dialogue: 0,0:02:04.60,0:02:06.28,Chinese,,0,0,0,,{\rChinese}- 埃尔弗里克！ - 大人？\N{\rEnglish}- Aelfric! - Lord?
+Dialogue: 0,0:02:06.44,0:02:09.60,Chinese,,0,0,0,,{\rChinese}- 把他们带进去 - 把妇女和老人带进来\N{\rEnglish}- Get them inside. - Take in the women and elders.
+Dialogue: 0,0:02:09.76,0:02:11.84,Chinese,,0,0,0,,{\rChinese}其余人去高地，别让人看见\N{\rEnglish}The rest to higher ground, out of sight.
+Dialogue: 0,0:02:12.00,0:02:14.76,Chinese,,0,0,0,,{\rChinese}召集乡民，我要这座要塞里的每一个男人\N{\rEnglish}Rouse the country. I want every man in this fortress.
+Dialogue: 0,0:02:14.92,0:02:17.29,Chinese,,0,0,0,,{\rChinese}每个人都要做好赴死的准备\N{\rEnglish}And every man must be prepared to die.
+Dialogue: 0,0:03:21.72,0:03:23.40,Chinese,,0,0,0,,{\rChinese}左舷准备划桨！\N{\rEnglish}(MAN 1) Port side ready to row!
+Dialogue: 0,0:03:23.56,0:03:26.24,Chinese,,0,0,0,,{\rChinese}左舷就位！右舷准备划桨！\N{\rEnglish}(MAN 2) Port side ready! (MAN 1) Starboard side ready to row!
+Dialogue: 0,0:03:26.40,0:03:28.05,Chinese,,0,0,0,,{\rChinese}右舷准备划桨！\N{\rEnglish}(MAN 2) Starboard side ready to row!
+Dialogue: 0,0:03:32.64,0:03:34.32,Chinese,,0,0,0,,{\rChinese}父亲\N{\rEnglish}Father.
+Dialogue: 0,0:03:35.36,0:03:37.60,Chinese,,0,0,0,,{\rChinese}收桨！收桨！\N{\rEnglish}(MAN 1) Rest your oars! (MAN 2) Rest your oars!
+Dialogue: 0,0:03:39.56,0:03:41.37,Chinese,,0,0,0,,{\rChinese}尝尝\N{\rEnglish}Taste.
+Dialogue: 0,0:03:44.72,0:03:47.77,Chinese,,0,0,0,,{\rChinese}没味道，是淡水\N{\rEnglish}Bland. Fresh.
+Dialogue: 0,0:03:47.92,0:03:50.00,Chinese,,0,0,0,,{\rChinese}- 甜水 - 对\N{\rEnglish}- Sweetwater. - Yes.
+Dialogue: 0,0:03:50.16,0:03:52.32,Chinese,,0,0,0,,{\rChinese}你还看到了什么？\N{\rEnglish}What else do you see?
+Dialogue: 0,0:03:53.36,0:03:55.17,Chinese,,0,0,0,,{\rChinese}我看到一条清澈的河\N{\rEnglish}EARL RAGNAR: I see a clear river,
+Dialogue: 0,0:03:55.32,0:03:56.81,Chinese,,0,0,0,,{\rChinese}鱼大得像人的腿一样粗\N{\rEnglish}fish as big as a man's leg.
+Dialogue: 0,0:03:57.16,0:03:59.21,Chinese,,0,0,0,,{\rChinese}我看到树林里到处是猎物\N{\rEnglish}I see a forest alive with meat.
+Dialogue: 0,0:03:59.36,0:04:01.97,Chinese,,0,0,0,,{\rChinese}不止如此，我看到了一个可以安享晚年的地方\N{\rEnglish}More than that, I see a place to grow fat and old.
+Dialogue: 0,0:04:02.12,0:04:03.69,Chinese,,0,0,0,,
+Dialogue: 0,0:04:04.04,0:04:05.93,Chinese,,0,0,0,,{\rChinese}有马\N{\rEnglish}Horses.
+Dialogue: 0,0:04:06.52,0:04:09.13,Chinese,,0,0,0,,{\rChinese}是啊，我还看到了探子\N{\rEnglish}Yeah. And I see spies,
+Dialogue: 0,0:04:09.28,0:04:10.77,Chinese,,0,0,0,,{\rChinese}吓得裤裆都湿了\N{\rEnglish}shitting themselves.
+Dialogue: 0,0:04:10.96,0:04:14.96,Chinese,,0,0,0,,
+Dialogue: 0,0:04:20.60,0:04:22.44,Chinese,,0,0,0,,{\rChinese}我们以剑迎剑！\N{\rEnglish}We'll meet sword with sword!
+Dialogue: 0,0:04:22.96,0:04:24.40,Chinese,,0,0,0,,{\rChinese}你们是异教徒！\N{\rEnglish}You are pagans!
+Dialogue: 0,0:04:24.56,0:04:26.56,Chinese,,0,0,0,,{\rChinese}我们有更伟大的天主站在我们这边！\N{\rEnglish}We have the greater God on our side!
+Dialogue: 0,0:04:26.72,0:04:29.85,Chinese,,0,0,0,,{\rChinese}基尔坦，我觉得该给这小子一个教训\N{\rEnglish}Kjartan. I think we should teach this boy a lesson.
+Dialogue: 0,0:04:30.00,0:04:31.44,Chinese,,0,0,0,,{\rChinese}靠进去\N{\rEnglish}(KJARTAN) Taking her in.
+Dialogue: 0,0:04:31.60,0:04:33.97,Chinese,,0,0,0,,{\rChinese}- 快跑！- 加快速度！\N{\rEnglish}- At speed! - (MAN) Pick up the speed!
+Dialogue: 0,0:04:34.16,0:04:36.73,Chinese,,0,0,0,,
+Dialogue: 0,0:04:41.16,0:04:43.24,Chinese,,0,0,0,,
+Dialogue: 0,0:04:44.32,0:04:48.48,Chinese,,0,0,0,,{\rChinese}跟我回去！快走！去要塞！快跟上！\N{\rEnglish}(MAN 1) Come back with me! Move it! (MAN 2) To the fort! Come on!
+Dialogue: 0,0:04:49.60,0:04:52.05,Chinese,,0,0,0,,{\rChinese}带上孩子！快走！\N{\rEnglish}(MAN 3) Grab the children! Move!
+Dialogue: 0,0:04:52.20,0:04:54.81,Chinese,,0,0,0,,{\rChinese}你想问我为什么不守护村子\N{\rEnglish}(LORD UHTRED) Why do I leave the villages unprotected
+Dialogue: 0,0:04:54.96,0:04:56.29,Chinese,,0,0,0,,{\rChinese}而是把人都撤进堡内？\N{\rEnglish}and bring the men inside?
+Dialogue: 0,0:04:56.44,0:04:58.49,Chinese,,0,0,0,,{\rChinese}这是你想问的吗？\N{\rEnglish}Is that your question?
+Dialogue: 0,0:04:58.64,0:05:02.17,Chinese,,0,0,0,,{\rChinese}村子烧了还能重建，战士死了就是死了\N{\rEnglish}A village can be rebuilt, a warrior can die only once.
+Dialogue: 0,0:05:02.32,0:05:04.80,Chinese,,0,0,0,,{\rChinese}丹麦人可能正往南朝约克进发\N{\rEnglish}The Danes may be heading south to Eofervvic,
+Dialogue: 0,0:05:04.96,0:05:08.01,Chinese,,0,0,0,,{\rChinese}但一路上碰到谁他们都会杀\N{\rEnglish}but they will kill whoever they can on the way.
+Dialogue: 0,0:05:09.08,0:05:10.81,Chinese,,0,0,0,,{\rChinese}去把神父找来\N{\rEnglish}Now, go and End the priest.
+Dialogue: 0,0:05:10.96,0:05:12.80,Chinese,,0,0,0,,{\rChinese}好的，父亲\N{\rEnglish}(OSBERT) Yes, Father.
+Dialogue: 0,0:05:21.04,0:05:23.88,Chinese,,0,0,0,,{\rChinese}进来吧，奥斯伯特，别躲在阴暗处\N{\rEnglish}(BEOCCA) Come in, Osbert, don't skulk in the shadows.
+Dialogue: 0,0:05:24.04,0:05:26.04,Chinese,,0,0,0,,{\rChinese}父亲让我来问您准备好了没\N{\rEnglish}(OSBERT) He wants to know if you're ready.
+Dialogue: 0,0:05:26.20,0:05:27.96,Chinese,,0,0,0,,{\rChinese}快了\N{\rEnglish}(BEOCCA) Almost.
+Dialogue: 0,0:05:28.32,0:05:30.56,Chinese,,0,0,0,,{\rChinese}你知道我在忙什么吗？\N{\rEnglish}Do you know what I'm tasked with?
+Dialogue: 0,0:05:30.72,0:05:34.49,Chinese,,0,0,0,,{\rChinese}- 呃，写信？- 是回信，回的是这封信\N{\rEnglish}- Um, a letter? - A response to a letter, this letter
+Dialogue: 0,0:05:34.64,0:05:36.40,Chinese,,0,0,0,,{\rChinese}埃拉国王来的信\N{\rEnglish}from King Aella.
+Dialogue: 0,0:05:36.64,0:05:39.88,Chinese,,0,0,0,,{\rChinese}他请求你父亲出兵相助\N{\rEnglish}Asking your father for his support, his army,
+Dialogue: 0,0:05:40.04,0:05:43.12,Chinese,,0,0,0,,{\rChinese}帮他夺回约克城\N{\rEnglish}to help recapture the city of Eofervvic.
+Dialogue: 0,0:05:43.28,0:05:45.60,Chinese,,0,0,0,,{\rChinese}这就是为什么读书写字很重要\N{\rEnglish}This is why it's important to read and write.
+Dialogue: 0,0:05:45.76,0:05:47.25,Chinese,,0,0,0,,{\rChinese}父亲不识字，也不会写\N{\rEnglish}Father can't read nor write.
+Dialogue: 0,0:05:47.40,0:05:49.56,Chinese,,0,0,0,,{\rChinese}唉，你父亲这把年纪，学也学不了了\N{\rEnglish}Yeah, well, for your father it's too late.
+Dialogue: 0,0:05:49.72,0:05:52.12,Chinese,,0,0,0,,{\rChinese}埃拉国王大可以派个人骑马来传话\N{\rEnglish}King Aella could have sent a man on horseback.
+Dialogue: 0,0:05:52.28,0:05:54.93,Chinese,,0,0,0,,{\rChinese}骑马送信的人说的就一定是真话吗?\N{\rEnglish}Who's to say the man on horseback speaks the truth?
+Dialogue: 0,0:05:55.08,0:05:57.53,Chinese,,0,0,0,,{\rChinese}或者他还记得原话吗?\N{\rEnglish}Or has remembered the true message?
+Dialogue: 0,0:05:58.20,0:06:02.20,Chinese,,0,0,0,,{\rChinese}这些文字记录的是历史，是事实\N{\rEnglish}What these letters will represent is history, facts.
+Dialogue: 0,0:06:02.36,0:06:05.49,Chinese,,0,0,0,,{\rChinese}你父亲正在通知埃拉国王和奥斯伯特国王\N{\rEnglish}Your father is informing King Aella and King Osbert
+Dialogue: 0,0:06:05.64,0:06:08.88,Chinese,,0,0,0,,{\rChinese}他将与他们的军队一同在约克会师\N{\rEnglish}he will be alongside their armies at Eoferwic.
+Dialogue: 0,0:06:09.04,0:06:12.73,Chinese,,0,0,0,,{\rChinese}贝班堡的印章便是这封信真实性的保证\N{\rEnglish}And the mark of Bebbanburg will guarantee the truth of it.
+Dialogue: 0,0:06:12.88,0:06:14.48,Chinese,,0,0,0,,{\rChinese}我们为什么要为约克而战?\N{\rEnglish}Why do we fight for Eofervvic?
+Dialogue: 0,0:06:14.64,0:06:16.48,Chinese,,0,0,0,,{\rChinese}我们为约克而战\N{\rEnglish}Well, we fight for Eofervvic
+Dialogue: 0,0:06:16.64,0:06:20.96,Chinese,,0,0,0,,{\rChinese}是因为我们不想眼睁睁看着英格兰一块一块地落入丹麦人之地\N{\rEnglish}because we do not wish to see England, piece by piece, become Daneland.
+Dialogue: 0,0:06:21.12,0:06:24.73,Chinese,,0,0,0,,{\rChinese}哈哈,我听说我们曾经也是异教徒\N{\rEnglish}Heh, heh. I heard it said that we were pagans once,
+Dialogue: 0,0:06:24.88,0:06:27.61,Chinese,,0,0,0,,{\rChinese}说沃登和奥丁其实是同一个神\N{\rEnglish}that Woden and Odin are the same.
+Dialogue: 0,0:06:27.76,0:06:30.08,Chinese,,0,0,0,,{\rChinese}我们认清了自己的错误,转而皈依罗马\N{\rEnglish}We saw the error of our ways, looked to Rome.
+Dialogue: 0,0:06:30.24,0:06:32.64,Chinese,,0,0,0,,{\rChinese}我听说异教徒有凶猛的战争之神\N{\rEnglish}I heard the pagans had fierce gods of war.
+Dialogue: 0,0:06:32.80,0:06:34.96,Chinese,,0,0,0,,{\rChinese}我们走的是正道,他们才是走错了路\N{\rEnglish}Well, we are right and they are mistaken.
+Dialogue: 0,0:06:35.12,0:06:37.28,Chinese,,0,0,0,,{\rChinese}奥斯伯特,我们是蒙受祝福的人\N{\rEnglish}Osbert, we are blessed.
+Dialogue: 0,0:06:37.44,0:06:39.76,Chinese,,0,0,0,,{\rChinese}我得让你对着圣卡斯伯特的梳子发誓\N{\rEnglish}I should make you swear on St Cuthbert's comb
+Dialogue: 0,0:06:39.92,0:06:42.08,Chinese,,0,0,0,,{\rChinese}以后再也不许提沃登之类的名字\N{\rEnglish}never to mention the likes of Woden again.
+Dialogue: 0,0:06:42.24,0:06:44.92,Chinese,,0,0,0,,{\rChinese}可要是我有一条狗叫沃登呢?\N{\rEnglish}But what if I had a hound called Woden?
+Dialogue: 0,0:06:45.08,0:06:48.69,Chinese,,0,0,0,,{\rChinese}- 那你怎么办? - 要是你有头猪叫托尔呢?\N{\rEnglish}- What would you do then? - What if you had a pig called Thor?
+Dialogue: 0,0:06:48.84,0:06:51.65,Chinese,,0,0,0,,{\rChinese}- 走吧，去见你父亲 - 一头叫托尔的猪\N{\rEnglish}- Come. Let's go see your father. - A pig called Thor.
+Dialogue: 0,0:06:51.80,0:06:55.72,Chinese,,0,0,0,,{\rChinese}- 那真的是圣卡斯伯特的梳子吗? - 当然是圣卡斯伯特的梳子\N{\rEnglish}- Is it really St Cuthbert's comb? - Of course it's St Cuthbert's comb,
+Dialogue: 0,0:06:55.88,0:06:58.72,Chinese,,0,0,0,,{\rChinese}他的圣发就留在那梳齿之间\N{\rEnglish}and his holy hair lies in the teeth of that comb.
+Dialogue: 0,0:06:58.88,0:07:02.36,Chinese,,0,0,0,,{\rChinese}-你父亲人呢？- 他在跟侍女鬼混\N{\rEnglish}- Where was your father last? - He was humping the servant girl.
+Dialogue: 0,0:07:02.52,0:07:04.17,Chinese,,0,0,0,,{\rChinese}- 胡说，奥斯伯特 - 我没胡说\N{\rChinese}- That's a lie,，Osbert. - No.
+Dialogue: 0,0:07:04.32,0:07:07.64,Chinese,,0,0,0,,{\rChinese}- 你就没打算消停吗? - 没有\N{\rEnglish}- Are you never gonna tire of teasing? - Nope.
+Dialogue: 0,0:07:07.80,0:07:10.37,Chinese,,0,0,0,,{\rChinese}有骑兵来了!\N{\rEnglish}(MAN) Horsemen approaching!
+Dialogue: 0,0:07:27.72,0:07:30.12,Chinese,,0,0,0,,{\rChinese}他骑的是乌特雷德的马\N{\rEnglish}He rides Uhtred's horse.
+Dialogue: 0,0:07:36.68,0:07:38.09,Chinese,,0,0,0,,{\rChinese}奥斯伯特\N{\rEnglish}(BEOCCA) Osbert.
+Dialogue: 0,0:07:55.40,0:07:58.21,Chinese,,0,0,0,,{\rChinese}不，不!\N{\rEnglish}No. No!
+Dialogue: 0,0:08:01.32,0:08:02.65,Chinese,,0,0,0,,
+Dialogue: 0,0:08:11.12,0:08:13.44,Chinese,,0,0,0,,{\rChinese}把他剩下的身体埋了\N{\rEnglish}Bury what's left of him.
+Dialogue: 0,0:08:22.84,0:08:24.76,Chinese,,0,0,0,,{\rChinese}奥斯伯特，走吧\N{\rEnglish}(BEOCCA) Osbert, come on.
+Dialogue: 0,0:08:26.28,0:08:28.52,Chinese,,0,0,0,,{\rChinese}提醒我，我最后跟他说了什么\N{\rEnglish}Remind me of the last words I spoke to him.
+Dialogue: 0,0:08:28.68,0:08:31.41,Chinese,,0,0,0,,{\rChinese}你让他只看，不许出战，我们...\N{\rEnglish}You told him to watch and do not Tight. We have...
+Dialogue: 0,0:08:31.56,0:08:33.32,Chinese,,0,0,0,,{\rChinese}不许出战就是不许出战\N{\rEnglish}Do not fight means do not fight.
+Dialogue: 0,0:08:33.48,0:08:36.21,Chinese,,0,0,0,,{\rChinese}- 他还年轻 - 到约克之前不许出战\N{\rEnglish}- He was young. (LORD UHTRED) No fight until Eoferwic.
+Dialogue: 0,0:08:36.36,0:08:38.93,Chinese,,0,0,0,,{\rChinese}您要见奥斯伯特，大人\N{\rEnglish}(BEOCCA) You wanted to see Osbert, my lord.
+Dialogue: 0,0:08:39.40,0:08:40.97,Chinese,,0,0,0,,{\rChinese}你\N{\rEnglish}You.
+Dialogue: 0,0:08:41.12,0:08:42.48,Chinese,,0,0,0,,{\rChinese}你现在叫乌特雷德\N{\rEnglish}You are now called Uhtred.
+Dialogue: 0,0:08:42.64,0:08:45.45,Chinese,,0,0,0,,{\rChinese}乌特雷德，乌特雷德之子，你带着那块石头了吗，那块琥珀?\N{\rEnglish}Uhtred, son of Uhtred. You have your stone, the amber?
+Dialogue: 0,0:08:45.60,0:08:47.97,Chinese,,0,0,0,,{\rChinese}- 带了 - 神父会带你了解你的历史\N{\rEnglish}- Yes. - The priest will show you your history,
+Dialogue: 0,0:08:48.16,0:08:50.69,Chinese,,0,0,0,,{\rChinese}- 那些羊皮卷，让他明白 - 大人，我...\N{\rEnglish}- parchments. Make him understand. (BEOCCA) Lord, I...
+Dialogue: 0,0:08:50.84,0:08:52.84,Chinese,,0,0,0,,{\rChinese}我想再给他施一次洗礼\N{\rEnglish}I should like to baptise him again.
+Dialogue: 0,0:08:53.00,0:08:55.16,Chinese,,0,0,0,,{\rChinese}若他以乌特雷德之名到达天堂之门\N{\rEnglish}If he arrives at heaven's gate as Uhtred,
+Dialogue: 0,0:08:55.32,0:08:57.85,Chinese,,0,0,0,,{\rChinese}他们可能会纳闷奥斯伯特去哪儿了\N{\rEnglish}they might wonder what's happened to Osbert.
+Dialogue: 0,0:08:58.00,0:09:00.29,Chinese,,0,0,0,,{\rChinese}你必须做的就做，但也照我说的办\N{\rEnglish}Do what you must, but do as I ask.
+Dialogue: 0,0:09:00.44,0:09:01.93,Chinese,,0,0,0,,{\rChinese}遵命，大人\N{\rEnglish}(BEOCCA) Lord.
+Dialogue: 0,0:09:02.76,0:09:06.53,Chinese,,0,0,0,,{\rChinese}孩子，我们曾经是这里的王，统治着\N{\rEnglish}We were kings here once, boy. Kings of all the lands
+Dialogue: 0,0:09:06.68,0:09:09.81,Chinese,,0,0,0,,{\rChinese}- 图耶德河与泰恩河之间的所有土地 - 我们理应再度称王\N{\rEnglish}- between rivers Tuede and Tine. - We should be kings again.
+Dialogue: 0,0:09:09.96,0:09:13.81,Chinese,,0,0,0,,{\rChinese}理应如此，但他们称我们什么不重要，只要他们服从就行\N{\rEnglish}We should, but it does not matte,what they call us so long as they obey.
+Dialogue: 0,0:09:13.96,0:09:16.61,Chinese,,0,0,0,,{\rChinese}我们的祖先打下了这片土地\N{\rEnglish}Our ancestors took this land.
+Dialogue: 0,0:09:16.76,0:09:19.21,Chinese,,0,0,0,,{\rChinese}这片土地是我们用血肉打下来的\N{\rEnglish}It's been strengthened with our blood and bone.
+Dialogue: 0,0:09:19.36,0:09:23.25,Chinese,,0,0,0,,{\rChinese}你现在是贝班堡新的继承人，听到了吗？\N{\rEnglish}And now you are the new heir of Bebbanburg. You hear me?
+Dialogue: 0,0:09:23.40,0:09:25.21,Chinese,,0,0,0,,{\rChinese}必要时，你要为它而死\N{\rEnglish}And you will die for it if needed.
+Dialogue: 0,0:09:25.36,0:09:28.28,Chinese,,0,0,0,,{\rChinese}我会把杀了乌特雷德那个人的脑袋交给你\N{\rEnglish}And I'll give you the head of the man who killed Uhtred.
+Dialogue: 0,0:09:28.44,0:09:30.12,Chinese,,0,0,0,,{\rChinese}不，你就是乌特雷德！\N{\rEnglish}No, you are Uhtred!
+Dialogue: 0,0:09:30.28,0:09:32.25,Chinese,,0,0,0,,{\rChinese}你没在听我说话吗？\N{\rEnglish}Have you not been listening to me?
+Dialogue: 0,0:09:32.40,0:09:35.80,Chinese,,0,0,0,,{\rChinese}别跟我说你要干什么，你还只是个毛头小子\N{\rEnglish}Do not tell me what it is you will do, you are just a pup.
+Dialogue: 0,0:09:35.96,0:09:40.41,Chinese,,0,0,0,,{\rChinese}你什么都不用给我，你只要看，只要学\N{\rEnglish}You will give me nothing. You will watch and you will learn.
+Dialogue: 0,0:09:43.08,0:09:45.69,Chinese,,0,0,0,,{\rChinese}在他母亲念叨我之前让他接受洗礼吧\N{\rEnglish}Put him in the water before his mother's tongue gives me grief.
+Dialogue: 0,0:09:45.84,0:09:47.81,Chinese,,0,0,0,,{\rChinese}她不是我母亲\N{\rEnglish}She's not my mother.
+Dialogue: 0,0:09:49.72,0:09:52.64,Chinese,,0,0,0,,{\rChinese}你会带他上战场去看去学吗？\N{\rEnglish}Will you take him with you to battle to watch and learn?
+Dialogue: 0,0:09:52.80,0:09:55.96,Chinese,,0,0,0,,{\rChinese}我要你挑三十个人，留守贝班堡\N{\rEnglish}I need you to choose 30 men and remain here at Bebbanburg.
+Dialogue: 0,0:09:56.12,0:09:58.85,Chinese,,0,0,0,,{\rChinese}保护这孩子，他是继承人\N{\rEnglish}Protect the boy. He is the heir.
+Dialogue: 0,0:10:00.20,0:10:02.96,Chinese,,0,0,0,,{\rChinese}三十人守得住，粮食也够用，帮我做这件事？\N{\rEnglish}Thirty will hold, few enough to feed. Do this for me?
+Dialogue: 0,0:10:03.12,0:10:05.57,Chinese,,0,0,0,,{\rChinese}我更想跟你一起去，但我会照你说的做\N{\rEnglish}I'd rather be with you, but I'll do as you ask.
+Dialogue: 0,0:10:05.72,0:10:07.05,Chinese,,0,0,0,,{\rChinese}谢了\N{\rEnglish}Thank you.
+Dialogue: 0,0:10:09.84,0:10:11.44,Chinese,,0,0,0,,{\rChinese}来，快点\N{\rEnglish}(GLENNA) Come on, quickly.
+Dialogue: 0,0:10:11.60,0:10:13.52,Chinese,,0,0,0,,{\rChinese}上去，快走\N{\rEnglish}Up there, go on.
+Dialogue: 0,0:10:14.72,0:10:16.56,Chinese,,0,0,0,,{\rChinese}快，快些\N{\rEnglish}(BEOCCA) Hurry, please.
+Dialogue: 0,0:10:18.76,0:10:20.97,Chinese,,0,0,0,,
+Dialogue: 0,0:10:27.00,0:10:29.32,Chinese,,0,0,0,,{\rChinese}天父啊\N{\rEnglish}(BEOCCA) Heavenly Father,
+Dialogue: 0,0:10:29.48,0:10:32.56,Chinese,,0,0,0,,{\rChinese}请接纳你的仆人乌特雷德\N{\rEnglish}receive your servant, Uhtred,
+Dialogue: 0,0:10:32.72,0:10:35.53,Chinese,,0,0,0,,{\rChinese}让他进入圣徒的神圣国度\N{\rEnglish}into the holy kind of saints
+Dialogue: 0,0:10:35.68,0:10:39.21,Chinese,,0,0,0,,{\rChinese}与最光明的天使同列\N{\rEnglish}and into the ranks of the most bright angels.
+Dialogue: 0,0:10:39.96,0:10:42.85,Chinese,,0,0,0,,{\rChinese}愿你的圣水洗净他\N{\rEnglish}Let your holy waters cleanse him
+Dialogue: 0,0:10:43.00,0:10:46.21,Chinese,,0,0,0,,{\rChinese}使他配得上你的祝福\N{\rEnglish}and make and him worthy of your blessing,
+Dialogue: 0,0:10:46.36,0:10:50.60,Chinese,,0,0,0,,{\rChinese}让他成为你的器皿与权杖\N{\rEnglish}make him your instrument and your rod.
+Dialogue: 0,0:10:53.20,0:10:56.60,Chinese,,0,0,0,,{\rChinese}让他领悟文字的力量\N{\rEnglish}Let him realise the significance of the written word
+Dialogue: 0,0:10:56.76,0:10:59.24,Chinese,,0,0,0,,{\rChinese}好让他了解你的荣耀\N{\rEnglish}so that he may learn of your glory
+Dialogue: 0,0:10:59.60,0:11:02.89,Chinese,,0,0,0,,{\rChinese}进而传播你的福音\N{\rEnglish}and in turn may spread your word.
+Dialogue: 0,0:11:03.80,0:11:07.01,Chinese,,0,0,0,,{\rChinese}- 贝奥... - 让他在智慧中成长\N{\rEnglish}- Beo.._ - Let him grow in wisdom
+Dialogue: 0,0:11:07.16,0:11:08.81,Chinese,,0,0,0,,{\rChinese}在敬畏中成长\N{\rEnglish}and in respect
+Dialogue: 0,0:11:09.40,0:11:11.77,Chinese,,0,0,0,,{\rChinese}- 好让他以虔敬之道领导众人 - 贝奥...\N{\rEnglish}- so he may lead in a godly manner. - Beo...
+Dialogue: 0,0:11:11.92,0:11:13.33,Chinese,,0,0,0,,{\rChinese}贝奥卡，他已受洗净了\N{\rEnglish}Beocca, he's cleansed.
+Dialogue: 0,0:11:13.96,0:11:16.09,Chinese,,0,0,0,,{\rChinese}- 阿门\N{\rEnglish}- Amen.
+Dialogue: 0,0:11:16.24,0:11:21.77,Chinese,,0,0,0,,{\rChinese}乌特雷德，贝班堡的乌特雷德之子，欢迎来到基督的世界\N{\rEnglish}Uhtred, son of Uhtred of Bebbanburg, welcome to the Christian world.
+Dialogue: 0,0:11:21.96,0:11:25.33,Chinese,,0,0,0,,{\rChinese}看看你的子民和你的土地\N{\rEnglish}Behold your people and your land.
+Dialogue: 0,0:11:26.64,0:11:28.85,Chinese,,0,0,0,,
+Dialogue: 0,0:11:54.96,0:11:57.04,Chinese,,0,0,0,,
+Dialogue: 0,0:12:06.44,0:12:08.44,Chinese,,0,0,0,,{\rChinese}人都去哪了，士兵们呢?\N{\rEnglish}(UHTRED) Where are the people, the soldiers?
+Dialogue: 0,0:12:08.60,0:12:10.89,Chinese,,0,0,0,,{\rChinese}在去约克的路上，你父亲带领着他们\N{\rEnglish}On the road to Eofervvic, led by your father,
+Dialogue: 0,0:12:11.04,0:12:13.36,Chinese,,0,0,0,,{\rChinese}去与另外两位国王会合\N{\rEnglish}where they'll join the other two kings.
+Dialogue: 0,0:12:13.52,0:12:15.97,Chinese,,0,0,0,,{\rChinese}- 没带我? - 你要留在贝班堡\N{\rEnglish}- Without me? - You are to remain at Bebbanburg
+Dialogue: 0,0:12:16.12,0:12:19.97,Chinese,,0,0,0,,{\rChinese}跟你叔父待在这儿，我负责保护你，要是想打架，就来跟我掰手腕\N{\rEnglish}with your uncle. I'm to keep you safe. You wish to fight, we arm-wrestle.
+Dialogue: 0,0:12:20.12,0:12:22.96,Chinese,,0,0,0,,{\rChinese}- 神父呢? - 跟你父亲去了，吃东西吧\N{\rEnglish}- Where's the priest? - With your father. Eat.
+Dialogue: 0,0:12:23.12,0:12:25.96,Chinese,,0,0,0,,{\rChinese}你要去马厩干活，乌特雷德\N{\rEnglish}You have work to do, Uhtred, in the stables.
+Dialogue: 0,0:12:26.12,0:12:28.80,Chinese,,0,0,0,,{\rChinese}好在他们还给我们留了几匹马\N{\rEnglish}Thankfully, we've been left some horses.
+Dialogue: 0,0:12:29.76,0:12:31.65,Chinese,,0,0,0,,{\rChinese}- 你该吃点东西 - 我不饿\N{\rEnglish}- You should eat. - (UHTRED) I'm not hungry.
+Dialogue: 0,0:12:31.80,0:12:33.16,Chinese,,0,0,0,,{\rChinese}我们有活要干\N{\rEnglish}(AELFRIC) We have work to do.
+Dialogue: 0,0:12:33.32,0:12:35.05,Chinese,,0,0,0,,{\rChinese}马粪要铲\N{\rEnglish}Horse shit to shovel.
+Dialogue: 0,0:12:35.20,0:12:37.65,Chinese,,0,0,0,,{\rChinese}干完了来找我\N{\rEnglish}Come and find me when you've finished.
+Dialogue: 0,0:13:19.08,0:13:20.68,Chinese,,0,0,0,,{\rChinese}斯卡利昂,\N{\rEnglish}Scallion,
+Dialogue: 0,0:13:20.84,0:13:26.69,Chinese,,0,0,0,,{\rChinese}我兄弟如果战死，那孩子也必须死\N{\rEnglish}if my brother falls in battle, the boy must fall.
+Dialogue: 0,0:14:00.28,0:14:02.25,Chinese,,0,0,0,,
+Dialogue: 0,0:14:02.80,0:14:04.96,Chinese,,0,0,0,,
+Dialogue: 0,0:14:05.44,0:14:08.49,Chinese,,0,0,0,,{\rChinese}走这么远，连个接风的人都没有\N{\rEnglish}(EARL RAGNAR) All this way and no reception party.
+Dialogue: 0,0:14:08.64,0:14:10.53,Chinese,,0,0,0,,{\rChinese}拉格纳伯爵\N{\rEnglish}(GUTHRUM) Earl Ragnar.
+Dialogue: 0,0:14:10.80,0:14:12.64,Chinese,,0,0,0,,{\rChinese}古斯鲁姆\N{\rEnglish}(EARL RAGNAR) Guthrum.
+Dialogue: 0,0:14:12.96,0:14:15.69,Chinese,,0,0,0,,{\rChinese}- 你还好吗? - 好，就是饿了\N{\rEnglish}- How are you? - I'm fine. I'm hungry.
+Dialogue: 0,0:14:15.84,0:14:17.36,Chinese,,0,0,0,,{\rChinese}- 你的孩子呢? - 快来了\N{\rEnglish}- (GUTHRUM) And your boy? - He's coming.
+Dialogue: 0,0:14:17.52,0:14:19.44,Chinese,,0,0,0,,{\rChinese}拉格纳，我带来了人马\N{\rEnglish}(UBBA) Ragnar. (EARL RAGNAR) I brought men, horses.
+Dialogue: 0,0:14:19.60,0:14:21.84,Chinese,,0,0,0,,{\rChinese}见到你真好，一切都好?\N{\rEnglish}Good to see you. You well?
+Dialogue: 0,0:14:22.04,0:14:24.57,Chinese,,0,0,0,,
+Dialogue: 0,0:14:24.72,0:14:26.69,Chinese,,0,0,0,,{\rChinese}你把他儿子的头颅当礼物送给他?\N{\rEnglish}You made a gift of his own son's head?
+Dialogue: 0,0:14:27.36,0:14:28.93,Chinese,,0,0,0,,{\rChinese}那位领主是什么反应?\N{\rEnglish}How did this lord react?
+Dialogue: 0,0:14:29.08,0:14:30.41,Chinese,,0,0,0,,{\rChinese}他什么都没做\N{\rEnglish}He did nothing.
+Dialogue: 0,0:14:30.56,0:14:34.69,Chinese,,0,0,0,,{\rChinese}他把手下的战士带进城堡,，待在里头不出来\N{\rEnglish}He brought his warriors into the fortress, kept them inside.
+Dialogue: 0,0:14:35.24,0:14:37.92,Chinese,,0,0,0,,{\rChinese}- 那不是胆怯 - 是隐忍\N{\rEnglish}- It was not cowardice. - (GUTHRUM) Restraint.
+Dialogue: 0,0:14:38.60,0:14:39.93,Chinese,,0,0,0,,{\rChinese}他在保存实力\N{\rEnglish}He is saving his men.
+Dialogue: 0,0:14:40.08,0:14:41.73,Chinese,,0,0,0,,{\rChinese}此人就是乌特雷德\N{\rEnglish}(UBBA) That man is Uhtred.
+Dialogue: 0,0:14:41.88,0:14:43.85,Chinese,,0,0,0,,{\rChinese}诺森布里亚三位国王之一\N{\rEnglish}One of the three kings of Northumbria.
+Dialogue: 0,0:14:44.00,0:14:45.97,Chinese,,0,0,0,,{\rChinese}- 骁勇的战士国王 - 另外两个都是蠢货\N{\rEnglish}- Warrior king. - (GUTHRUM) Other two are fools.
+Dialogue: 0,0:14:46.12,0:14:48.52,Chinese,,0,0,0,,{\rChinese}只顾着内斗\N{\rEnglish}They'd rather be fighting each other.
+Dialogue: 0,0:14:48.68,0:14:51.44,Chinese,,0,0,0,,{\rChinese}- 此话当真? - 埃拉王和奥斯伯特王,\N{\rEnglish}- This is true? - King Aella and King Osbert,
+Dialogue: 0,0:14:51.60,0:14:55.40,Chinese,,0,0,0,,{\rChinese}两人都争着要占约克\N{\rEnglish}they both lay claim to Eofervvic.
+Dialogue: 0,0:14:55.56,0:14:58.56,Chinese,,0,0,0,,{\rChinese}- 他们的名字真是奇怪\N{\rEnglish}- They have the strangest of names. - (CHUCKLES)
+Dialogue: 0,0:14:58.72,0:15:01.53,Chinese,,0,0,0,,{\rChinese}- 那我们什么时候开打? - 快了，但愿如此\N{\rEnglish}- So when do we fight? - Soon, I hope.
+Dialogue: 0,0:15:03.24,0:15:04.92,Chinese,,0,0,0,,{\rChinese}我还没决定\N{\rEnglish}I'm still to decide.
+Dialogue: 0,0:15:08.84,0:15:13.72,Chinese,,0,0,0,,{\rChinese}不管蠢不蠢，他们有三支军队\N{\rEnglish}Fools or not, they have three armies.
+Dialogue: 0,0:15:14.88,0:15:17.80,Chinese,,0,0,0,,{\rChinese}- 他们确实人多 - 但各自为战\N{\rEnglish}- They have numbers. - (EARL RAGNAR) But are divided.
+Dialogue: 0,0:15:17.96,0:15:21.81,Chinese,,0,0,0,,{\rChinese}三个国王，却只有一个能统领全局的人，就是这个乌特雷德\N{\rEnglish}Three kings, but only one who can lead them. This Uhtred.
+Dialogue: 0,0:15:21.96,0:15:26.01,Chinese,,0,0,0,,{\rChinese}杀了他，整个诺森布里亚就是我们的\N{\rEnglish}Kill him and Northumbria is ours, all of it.
+Dialogue: 0,0:15:26.20,0:15:28.01,Chinese,,0,0,0,,
+Dialogue: 0,0:15:28.16,0:15:31.13,Chinese,,0,0,0,,{\rChinese}听他说，听这小子说，他让我想起了年轻时的自己\N{\rEnglish}Listen to him. Listen to the boy. He reminds me of me.
+Dialogue: 0,0:15:31.28,0:15:33.60,Chinese,,0,0,0,,{\rChinese}对，你年轻的时候，哈哈\N{\rEnglish}Yeah, when you were younger. Heh, heh.
+Dialogue: 0,0:15:33.76,0:15:35.28,Chinese,,0,0,0,,{\rChinese}当然是年轻的时候\N{\rEnglish}Of course when I was younger.
+Dialogue: 0,0:15:35.44,0:15:37.25,Chinese,,0,0,0,,{\rChinese}- 他不过是个孩子 - 随便说说\N{\rEnglish}- He's just a boy. - Just saying.
+Dialogue: 0,0:15:37.40,0:15:40.08,Chinese,,0,0,0,,{\rChinese}- 乌巴… - 你是说我老了？斯托里\N{\rEnglish}- (EARL RAGNAR) Ubba... - Did you say I was old? Storri.
+Dialogue: 0,0:15:40.24,0:15:41.68,Chinese,,0,0,0,,{\rChinese}- 没有 - 我没有老\N{\rEnglish}- No. - (UBBA) I'm not getting old.
+Dialogue: 0,0:15:41.84,0:15:43.33,Chinese,,0,0,0,,{\rChinese}乌巴\N{\rEnglish}Ubba.
+Dialogue: 0,0:15:43.52,0:15:45.76,Chinese,,0,0,0,,{\rChinese}我已经看过城外的地形了\N{\rEnglish}I have seen the land outside the city.
+Dialogue: 0,0:15:45.92,0:15:48.49,Chinese,,0,0,0,,{\rChinese}我心里有个计划，是个好计划\N{\rEnglish}I have a plan in mind, a good plan.
+Dialogue: 0,0:15:49.36,0:15:52.25,Chinese,,0,0,0,,{\rChinese}我儿子也想跟你们一起见见血\N{\rEnglish}And my son would like to wet his sword with you.
+Dialogue: 0,0:15:52.40,0:15:54.56,Chinese,,0,0,0,,{\rChinese}那我们打不打？\N{\rEnglish}So do we fight?
+Dialogue: 0,0:15:57.64,0:15:59.45,Chinese,,0,0,0,,{\rChinese}斯托里？\N{\rEnglish}Storri?
+Dialogue: 0,0:16:00.68,0:16:03.41,Chinese,,0,0,0,,{\rChinese}征兆不错，就在今晨，我看见一只渡鸦\N{\rEnglish}The signs are good. Only this morning, I saw a raven
+Dialogue: 0,0:16:03.56,0:16:06.80,Chinese,,0,0,0,,{\rChinese}朝撒克逊人的营地飞去，像是在召唤我跟上\N{\rEnglish}fly towards the Saxon camp, and it was asking me to follow.
+Dialogue: 0,0:16:06.96,0:16:08.85,Chinese,,0,0,0,,{\rChinese}- 我确信如此 - 嗯\N{\rEnglish}- I'm sure of it. - Mm.
+Dialogue: 0,0:16:14.72,0:16:16.69,Chinese,,0,0,0,,{\rChinese}- 那就开打 -\N{\rEnglish}- Then we fight.
+Dialogue: 0,0:16:16.84,0:16:19.00,Chinese,,0,0,0,,{\rChinese}开打！\N{\rEnglish}(MAN) We fight!
+Dialogue: 0,0:16:19.20,0:16:20.85,Chinese,,0,0,0,,
+Dialogue: 0,0:16:42.52,0:16:44.17,Chinese,,0,0,0,,{\rChinese}这是什么鬼地方？\N{\rEnglish}(KING OSBERT) What kind of hell is this?
+Dialogue: 0,0:16:44.32,0:16:45.97,Chinese,,0,0,0,,{\rChinese}这是异教徒的地狱\N{\rEnglish}(AELLA) it's a pagan's hell.
+Dialogue: 0,0:16:46.12,0:16:47.69,Chinese,,0,0,0,,{\rChinese}我们人数占优\N{\rEnglish}We outnumber them.
+Dialogue: 0,0:16:47.84,0:16:49.84,Chinese,,0,0,0,,{\rChinese}还有更多人，一定有\N{\rEnglish}There are more. There must be.
+Dialogue: 0,0:16:50.00,0:16:52.61,Chinese,,0,0,0,,{\rChinese}计划不变，先派一半人马出击\N{\rEnglish}Nothing changes. We attack with half our number,
+Dialogue: 0,0:16:52.76,0:16:55.65,Chinese,,0,0,0,,{\rChinese}摸清他们的底细后，另一半跟进\N{\rEnglish}second half to follow once we have the measure of them.
+Dialogue: 0,0:16:55.80,0:16:58.53,Chinese,,0,0,0,,{\rChinese}- 他们已经放弃了高地 - 埃拉王\N{\rEnglish}- They have conceded higher ground. - (KING OSBERT) King Aella,
+Dialogue: 0,0:16:58.68,0:17:01.84,Chinese,,0,0,0,,{\rChinese}你和乌特雷德大人的军队率先发起冲锋\N{\rEnglish}yours and Lord Uhtred's armies will attack in the first wave.
+Dialogue: 0,0:17:02.00,0:17:04.40,Chinese,,0,0,0,,{\rChinese}预备！预备！\N{\rEnglish}(AELLA) Prepare! Prepare!
+Dialogue: 0,0:17:04.88,0:17:06.21,Chinese,,0,0,0,,
+Dialogue: 0,0:17:06.36,0:17:07.85,Chinese,,0,0,0,,{\rChinese}举盾!\N{\rEnglish}Shield!
+Dialogue: 0,0:17:08.84,0:17:11.68,Chinese,,0,0,0,,{\rChinese}不，不，别撇下我\N{\rEnglish}No. No, not without me.
+Dialogue: 0,0:17:33.84,0:17:37.76,Chinese,,0,0,0,,{\rChinese}天黑之前，我们就能扫清这帮瘟神,\N{\rEnglish}Come nightfall, we'll be rid of this plague
+Dialogue: 0,0:17:37.92,0:17:40.89,Chinese,,0,0,0,,{\rChinese}然后清点我们该得的战利品!\N{\rEnglish}and counting our share of the plunder!
+Dialogue: 0,0:17:41.04,0:17:42.37,Chinese,,0,0,0,,
+Dialogue: 0,0:17:46.36,0:17:48.17,Chinese,,0,0,0,,{\rChinese}我的盾牌\N{\rEnglish}(AELLA) My shield.
+Dialogue: 0,0:17:48.60,0:17:50.97,Chinese,,0,0,0,,
+Dialogue: 0,0:17:51.32,0:17:55.88,Chinese,,0,0,0,,
+Dialogue: 0,0:17:58.80,0:18:02.77,Chinese,,0,0,0,,
+Dialogue: 0,0:18:09.12,0:18:13.33,Chinese,,0,0,0,,
+Dialogue: 0,0:18:58.40,0:19:00.21,Chinese,,0,0,0,,{\rChinese}杀光他们!\N{\rEnglish}Kill them all!
+Dialogue: 0,0:19:00.36,0:19:03.81,Chinese,,0,0,0,,
+Dialogue: 0,0:19:05.88,0:19:07.96,Chinese,,0,0,0,,
+Dialogue: 0,0:19:20.52,0:19:22.36,Chinese,,0,0,0,,{\rChinese}盾墙撑住了\N{\rEnglish}(AELLA) The wall is holding.
+Dialogue: 0,0:19:23.04,0:19:26.73,Chinese,,0,0,0,,{\rChinese}上！手压在盾牌下面，往前顶！顶！\N{\rEnglish}(LORD UHTRED) Go! Hands below your shield and drive! Drive!
+Dialogue: 0,0:19:29.00,0:19:30.65,Chinese,,0,0,0,,{\rChinese}后退!\N{\rEnglish}Ease.
+Dialogue: 0,0:19:30.80,0:19:32.85,Chinese,,0,0,0,,{\rChinese}后退!\N{\rEnglish}(MAN) Ease!
+Dialogue: 0,0:19:34.60,0:19:36.49,Chinese,,0,0,0,,{\rChinese}后退!\N{\rEnglish}Ease!
+Dialogue: 0,0:19:37.44,0:19:39.73,Chinese,,0,0,0,,{\rChinese}- 后退! - 前进!\N{\rEnglish}- Ease! - (LORD UHTRED) Push!
+Dialogue: 0,0:19:39.88,0:19:42.20,Chinese,,0,0,0,,{\rChinese}继续前进！起效了!\N{\rEnglish}Keep pushing! it's working!
+Dialogue: 0,0:19:51.00,0:19:52.41,Chinese,,0,0,0,,{\rChinese}把他们压垮!\N{\rEnglish}Drive them!
+Dialogue: 0,0:19:52.84,0:19:54.17,Chinese,,0,0,0,,
+Dialogue: 0,0:19:58.72,0:20:01.53,Chinese,,0,0,0,,{\rChinese}他们撑不住了，还不了手，我们赢了，你看\N{\rEnglish}They're tiring, can't fight back. We're winning, look.
+Dialogue: 0,0:20:01.68,0:20:03.01,Chinese,,0,0,0,,{\rChinese}我们赢了\N{\rEnglish}(MAN) We're winning.
+Dialogue: 0,0:20:04.20,0:20:06.52,Chinese,,0,0,0,,{\rChinese}- 跟上! -\N{\rEnglish}- Follow! - (MEN SHOUTING)
+Dialogue: 0,0:20:06.72,0:20:09.37,Chinese,,0,0,0,,
+Dialogue: 0,0:20:10.04,0:20:12.28,Chinese,,0,0,0,,{\rChinese}往前冲!\N{\rEnglish}Drive on!
+Dialogue: 0,0:20:13.80,0:20:17.60,Chinese,,0,0,0,,{\rChinese}还不行! 还不行!\N{\rEnglish}Not yet! Not yet!
+Dialogue: 0,0:20:32.64,0:20:34.00,Chinese,,0,0,0,,{\rChinese}天主啊，不\N{\rEnglish}Dear God, no.
+Dialogue: 0,0:20:40.36,0:20:41.96,Chinese,,0,0,0,,{\rChinese}立盾墙!\N{\rEnglish}Shield!
+Dialogue: 0,0:20:42.12,0:20:43.85,Chinese,,0,0,0,,
+Dialogue: 0,0:20:44.88,0:20:47.33,Chinese,,0,0,0,,{\rChinese}仁慈无边的天主啊，不要让这一切发生\N{\rEnglish}Dear God of infinite mercy, not this.
+Dialogue: 0,0:20:52.44,0:20:54.04,Chinese,,0,0,0,,{\rChinese}杀光他们!\N{\rEnglish}Kill them all!
+Dialogue: 0,0:20:55.36,0:20:58.36,Chinese,,0,0,0,,
+Dialogue: 0,0:21:01.52,0:21:03.36,Chinese,,0,0,0,,
+Dialogue: 0,0:21:04.68,0:21:06.44,Chinese,,0,0,0,,{\rChinese}护腿! 护腿!\N{\rEnglish}(LORD UHTRED) Legs! Legs!
+Dialogue: 0,0:21:06.60,0:21:08.01,Chinese,,0,0,0,,{\rChinese}保护你们的腿!\N{\rEnglish}Protect your legs!
+Dialogue: 0,0:21:09.80,0:21:11.53,Chinese,,0,0,0,,{\rChinese}举起你的利剑\N{\rEnglish}Lift up your sword
+Dialogue: 0,0:21:11.68,0:21:14.76,Chinese,,0,0,0,,{\rChinese}庇护这些以你之名浴血的英格兰战士\N{\rEnglish}and spare these men of England who fight in your name.
+Dialogue: 0,0:21:16.48,0:21:19.56,Chinese,,0,0,0,,{\rChinese}让那些异教徒的心胆俱裂, 魂飞魄散\N{\rEnglish}Let the heathens' hearts crumble and wither.
+Dialogue: 0,0:21:19.72,0:21:23.44,Chinese,,0,0,0,,{\rChinese}将你的神力赐予这些英格兰战士\N{\rEnglish}Bestow your power upon these men of England,
+Dialogue: 0,0:21:23.60,0:21:27.00,Chinese,,0,0,0,,{\rChinese}让他们用恶鬼的血来荣耀你的圣名\N{\rEnglish}so they can glorify your name with the blood of the devils.
+Dialogue: 0,0:21:27.16,0:21:29.89,Chinese,,0,0,0,,{\rChinese}此刻请垂怜我们，主啊\N{\rEnglish}Have mercy now, Lord.
+Dialogue: 0,0:21:30.40,0:21:34.37,Chinese,,0,0,0,,{\rChinese}不要抛弃我们，不要抛弃英格兰\N{\rEnglish}Do not forsake us. Do not forsake England.
+Dialogue: 0,0:21:42.84,0:21:46.64,Chinese,,0,0,0,,{\rChinese}跟我来! 跟我来!\N{\rEnglish}(LORD UHTRED) Follow me! Follow me!
+Dialogue: 0,0:21:47.64,0:21:49.37,Chinese,,0,0,0,,{\rChinese}拿下他!\N{\rEnglish}Take him!
+Dialogue: 0,0:21:52.36,0:21:53.69,Chinese,,0,0,0,,
+Dialogue: 0,0:21:53.84,0:21:57.92,Chinese,,0,0,0,,{\rChinese}收紧盾墙！收紧盾墙，拿下他！\N{\rEnglish}(EARL RAGNAR) Close the shield wall! Close the wall and take him!
+Dialogue: 0,0:21:58.08,0:21:59.92,Chinese,,0,0,0,,{\rChinese}啊！\N{\rEnglish}Unh! Unh.
+Dialogue: 0,0:22:01.56,0:22:03.13,Chinese,,0,0,0,,{\rChinese}不\N{\rEnglish}No.
+Dialogue: 0,0:22:12.12,0:22:15.36,Chinese,,0,0,0,,
+Dialogue: 0,0:22:18.64,0:22:20.72,Chinese,,0,0,0,,{\rChinese}这小子像只黄蜂，哈哈\N{\rEnglish}He's like a wasp. Ha, ha.
+Dialogue: 0,0:22:21.20,0:22:23.36,Chinese,,0,0,0,,
+Dialogue: 0,0:22:26.28,0:22:27.61,Chinese,,0,0,0,,
+Dialogue: 0,0:22:28.88,0:22:31.53,Chinese,,0,0,0,,{\rChinese}-可惜黄蜂没了刺  - 是啊\N{\rEnglish}(EARL RAGNAR) Wasp has lost its sting. (RAGNAR) Yeah.
+Dialogue: 0,0:22:32.04,0:22:33.45,Chinese,,0,0,0,,
+Dialogue: 0,0:22:33.64,0:22:35.29,Chinese,,0,0,0,,
+Dialogue: 0,0:22:39.36,0:22:41.44,Chinese,,0,0,0,,
+Dialogue: 0,0:22:41.60,0:22:44.33,Chinese,,0,0,0,,{\rChinese}你确定他是撒克逊人？他打起来像个丹麦人\N{\rEnglish}(RAGNAR) Are you sure he's a Saxon? He fights like a Dane.
+Dialogue: 0,0:22:44.48,0:22:46.00,Chinese,,0,0,0,,{\rChinese}是啊\N{\rEnglish}(EARL RAGNAR) Yeah.
+Dialogue: 0,0:22:46.20,0:22:48.01,Chinese,,0,0,0,,
+Dialogue: 0,0:22:53.20,0:22:57.49,Chinese,,0,0,0,,
+Dialogue: 0,0:22:59.40,0:23:01.29,Chinese,,0,0,0,,
+Dialogue: 0,0:23:01.44,0:23:02.80,Chinese,,0,0,0,,
+Dialogue: 0,0:23:03.84,0:23:07.92,Chinese,,0,0,0,,
+Dialogue: 0,0:23:09.76,0:23:11.09,Chinese,,0,0,0,,{\rChinese}起来！\N{\rEnglish}(MAN 2) Get up!
+Dialogue: 0,0:23:13.00,0:23:15.45,Chinese,,0,0,0,,
+Dialogue: 0,0:23:15.64,0:23:18.88,Chinese,,0,0,0,,
+Dialogue: 0,0:23:20.40,0:23:23.40,Chinese,,0,0,0,,
+Dialogue: 0,0:23:28.36,0:23:29.72,Chinese,,0,0,0,,
+Dialogue: 0,0:23:29.88,0:23:32.80,Chinese,,0,0,0,,{\rChinese}- 放开她\N{\rEnglish}- (BRIDA SCREAMING) - (EARL RAGNAR) Leave her.
+Dialogue: 0,0:23:34.68,0:23:36.25,Chinese,,0,0,0,,{\rChinese}她得活着\N{\rEnglish}She is to live.
+Dialogue: 0,0:23:37.44,0:23:40.44,Chinese,,0,0,0,,{\rChinese}这些年轻的，留着有用\N{\rEnglish}Some of these young ones can come in useful.
+Dialogue: 0,0:23:42.84,0:23:45.97,Chinese,,0,0,0,,{\rChinese}父亲，这就是我跟你提过的那个男孩\N{\rEnglish}Father, here's the boy I spoke of.
+Dialogue: 0,0:23:46.12,0:23:50.33,Chinese,,0,0,0,,{\rChinese}差点要了你命的那个？你就把他扔给我？\N{\rEnglish}The one who almost killed you? You're leaving him with me?
+Dialogue: 0,0:23:50.48,0:23:53.72,Chinese,,0,0,0,,{\rChinese}我还从没见过谁能在你手里占到便宜\N{\rEnglish}I've never seen a man get the better of you yet.
+Dialogue: 0,0:23:54.48,0:23:57.37,Chinese,,0,0,0,,
+Dialogue: 0,0:23:58.16,0:24:00.81,Chinese,,0,0,0,,
+Dialogue: 0,0:24:08.96,0:24:11.80,Chinese,,0,0,0,,{\rChinese}给我切点鸡肉\N{\rEnglish}(RAVN) Cut me some chicken.
+Dialogue: 0,0:24:18.48,0:24:21.29,Chinese,,0,0,0,,{\rChinese}小心,刀刃很锋利\N{\rEnglish}Careful, the blade is sharp.
+Dialogue: 0,0:24:21.44,0:24:23.76,Chinese,,0,0,0,,{\rChinese}能要人命的\N{\rEnglish}It can kill a man.
+Dialogue: 0,0:24:30.44,0:24:33.17,Chinese,,0,0,0,,{\rChinese}鸡肉在你盘子里了\N{\rEnglish}The chicken is on your platter.
+Dialogue: 0,0:24:39.16,0:24:42.05,Chinese,,0,0,0,,{\rChinese}你一直是瞎子吗?\N{\rEnglish}Have you always been blind?
+Dialogue: 0,0:24:42.28,0:24:44.20,Chinese,,0,0,0,,{\rChinese}哦，我能看到不少\N{\rEnglish}Oh, I see enough.
+Dialogue: 0,0:24:45.08,0:24:49.85,Chinese,,0,0,0,,{\rChinese}他们在下面杀的是什么人?\N{\rEnglish}So who have they been killing below?
+Dialogue: 0,0:24:51.08,0:24:52.41,Chinese,,0,0,0,,{\rChinese}俘虏\N{\rEnglish}(UHTRED) Prisoners.
+Dialogue: 0,0:24:55.60,0:24:57.57,Chinese,,0,0,0,,{\rChinese}刚才杀了个国王\N{\rEnglish}Just now a king.
+Dialogue: 0,0:24:57.72,0:24:59.93,Chinese,,0,0,0,,{\rChinese}他死得英勇吗?\N{\rEnglish}Did he die well?
+Dialogue: 0,0:25:00.48,0:25:03.09,Chinese,,0,0,0,,{\rChinese}- 没有 - 那他本就不配当国王\N{\rEnglish}- No. - Then he shouldn't have been king.
+Dialogue: 0,0:25:03.28,0:25:05.60,Chinese,,0,0,0,,
+Dialogue: 0,0:25:06.96,0:25:10.81,Chinese,,0,0,0,,{\rChinese}告诉我,大厅正中坐的是谁?\N{\rEnglish}Tell me, who sits in the middle of the hall?
+Dialogue: 0,0:25:11.16,0:25:12.49,Chinese,,0,0,0,,
+Dialogue: 0,0:25:12.64,0:25:13.64,Chinese,,0,0,0,,
+Dialogue: 0,0:25:16.00,0:25:18.48,Chinese,,0,0,0,,{\rChinese}是一个大块头和一个小个子吗?\N{\rEnglish}Is it the big man and a small man?
+Dialogue: 0,0:25:20.88,0:25:23.41,Chinese,,0,0,0,,{\rChinese}是的，他们中间还坐着一个灰发男人\N{\rEnglish}(UHTRED) Yes, and a grey man sits in between them.
+Dialogue: 0,0:25:23.56,0:25:28.01,Chinese,,0,0,0,,{\rChinese}如果你能活下去，就得提防那个大块头——乌巴\N{\rEnglish}If you get to live, you should beware of the big man. Ubba.
+Dialogue: 0,0:25:28.32,0:25:33.41,Chinese,,0,0,0,,{\rChinese}我的忠告是，永远别惹乌巴\N{\rEnglish}My advice for you is to never cross Ubba
+Dialogue: 0,0:25:33.56,0:25:36.13,Chinese,,0,0,0,,{\rChinese}而且永远，永远别跟他动手\N{\rEnglish}and never, never fight him.
+Dialogue: 0,0:25:36.28,0:25:40.20,Chinese,,0,0,0,,{\rChinese}- 如果我能活下去? - 他只听众神的话\N{\rEnglish}- If I get to live? - He listens to no one but the gods.
+Dialogue: 0,0:25:40.36,0:25:46.05,Chinese,,0,0,0,,{\rChinese}听命于众神的人，谁都摸不透他\N{\rEnglish}Men who take their orders from the gods are unpredictable.
+Dialogue: 0,0:25:49.20,0:25:50.69,Chinese,,0,0,0,,{\rChinese}你说'如果我能活下去'\N{\rEnglish}What did you mean
+Dialogue: 0,0:25:50.84,0:25:52.65,Chinese,,0,0,0,,{\rChinese}是什么意思?\N{\rEnglish}when you said if I get to live?
+Dialogue: 0,0:25:52.80,0:25:54.48,Chinese,,0,0,0,,{\rChinese}你是我的俘虏\N{\rEnglish}You're my prisoner.
+Dialogue: 0,0:25:55.84,0:25:59.05,Chinese,,0,0,0,,{\rChinese}那个灰发男人应该是埃格伯特\N{\rEnglish}The grey man will be Egbert.
+Dialogue: 0,0:25:59.20,0:26:01.04,Chinese,,0,0,0,,{\rChinese}他是个撒克逊郡长\N{\rEnglish}He's a Saxon ealdorman.
+Dialogue: 0,0:26:01.20,0:26:06.21,Chinese,,0,0,0,,{\rChinese}他已宣誓效忠，如今自称国王\N{\rEnglish}He has pledged allegiance and now calls himself king.
+Dialogue: 0,0:26:06.36,0:26:08.97,Chinese,,0,0,0,,{\rChinese}他不过是个傀儡国王\N{\rEnglish}He is king of nothing.
+Dialogue: 0,0:26:09.12,0:26:13.73,Chinese,,0,0,0,,{\rChinese}用不了多久，英格兰所有国王都将是傀儡国王\N{\rEnglish}Soon all of the kings in England shall be kings of nothing.
+Dialogue: 0,0:26:13.88,0:26:16.49,Chinese,,0,0,0,,{\rChinese}诺森布里亚已归我们所有\N{\rEnglish}Northumbria is ours.
+Dialogue: 0,0:26:16.64,0:26:18.48,Chinese,,0,0,0,,{\rChinese}麦西亚也快了\N{\rEnglish}Mercia will soon by ours.
+Dialogue: 0,0:26:18.64,0:26:21.40,Chinese,,0,0,0,,{\rChinese}然后是东盎格利亚、康沃卢姆\N{\rEnglish}Then East Anglia, Cornwalum,
+Dialogue: 0,0:26:21.56,0:26:27.49,Chinese,,0,0,0,,{\rChinese}以及最丰厚的奖励，就是威塞克斯，最后的王国\N{\rEnglish}and then the greatest prize is the last kingdom, Wessex.
+Dialogue: 0,0:26:27.64,0:26:29.13,Chinese,,0,0,0,,{\rChinese}我听说过威塞克斯\N{\rEnglish}I've heard of Wessex.
+Dialogue: 0,0:26:29.28,0:26:32.01,Chinese,,0,0,0,,{\rChinese}任何东西都能在威塞克斯的土地上生长\N{\rEnglish}Anything will grow in Wessex.
+Dialogue: 0,0:26:32.16,0:26:34.16,Chinese,,0,0,0,,
+Dialogue: 0,0:26:34.64,0:26:36.32,Chinese,,0,0,0,,{\rChinese}告诉我你叫什么\N{\rEnglish}(RAVN) Tell me your name.
+Dialogue: 0,0:26:36.48,0:26:38.05,Chinese,,0,0,0,,{\rChinese}乌特雷德\N{\rEnglish}Uhtred.
+Dialogue: 0,0:26:38.20,0:26:40.20,Chinese,,0,0,0,,{\rChinese}我是贝班堡的郡长\N{\rEnglish}I'm the ealdorman of Bebbanburg.
+Dialogue: 0,0:26:40.36,0:26:43.76,Chinese,,0,0,0,,{\rChinese}- 是吗? - 是的，我在北边有封地\N{\rEnglish}- You are, huh? - I am. I own lands to the north.
+Dialogue: 0,0:26:43.92,0:26:47.53,Chinese,,0,0,0,,{\rChinese}你当这片土地的郡长多久了?\N{\rEnglish}How long have you been an ealdorman of these lands?
+Dialogue: 0,0:26:53.56,0:26:57.61,Chinese,,0,0,0,,{\rChinese}你父亲选择跟我们开战\N{\rEnglish}Your father chose to fight us
+Dialogue: 0,0:26:57.76,0:27:00.65,Chinese,,0,0,0,,{\rChinese}现在已经死了\N{\rEnglish}and is now dead.
+Dialogue: 0,0:27:03.52,0:27:07.00,Chinese,,0,0,0,,{\rChinese}他……他不喜欢我\N{\rEnglish}He... He was not fond of me.
+Dialogue: 0,0:27:11.36,0:27:12.85,Chinese,,0,0,0,,
+Dialogue: 0,0:27:13.00,0:27:17.85,Chinese,,0,0,0,,{\rChinese}我现在明白了，为什么我儿子要留你一命\N{\rEnglish}I now understand why my son spared you,
+Dialogue: 0,0:27:18.64,0:27:21.12,Chinese,,0,0,0,,{\rChinese}贝班堡的乌特雷德\N{\rEnglish}Uhtred of Bebbanburg.
+Dialogue: 0,0:27:21.36,0:27:23.60,Chinese,,0,0,0,,{\rChinese}你是个战士\N{\rEnglish}You are a warrior.
+Dialogue: 0,0:27:26.32,0:27:28.24,Chinese,,0,0,0,,{\rChinese}来，喝点麦酒\N{\rEnglish}Have some ale.
+Dialogue: 0,0:27:31.00,0:27:32.81,Chinese,,0,0,0,,{\rChinese}喝吧\N{\rEnglish}Drink it.
+Dialogue: 0,0:27:35.08,0:27:37.00,Chinese,,0,0,0,,{\rChinese}多喝点\N{\rEnglish}Lots of it.
+Dialogue: 0,0:28:13.32,0:28:14.65,Chinese,,0,0,0,,{\rChinese}拿去\N{\rEnglish}Here.
+Dialogue: 0,0:28:15.68,0:28:17.20,Chinese,,0,0,0,,{\rChinese}搬上去\N{\rEnglish}Take it up there.
+Dialogue: 0,0:28:17.40,0:28:20.05,Chinese,,0,0,0,,
+Dialogue: 0,0:28:24.60,0:28:29.13,Chinese,,0,0,0,,{\rChinese}我想把他们两个都留下，男孩和女孩\N{\rEnglish}I'm thinking of keeping them both, the boy and the girl.
+Dialogue: 0,0:28:29.28,0:28:31.25,Chinese,,0,0,0,,{\rChinese}可以帮你母亲干活\N{\rEnglish}Can help your mother.
+Dialogue: 0,0:28:32.76,0:28:35.81,Chinese,,0,0,0,,{\rChinese}- 有意见? - 没有\N{\rEnglish}- Disagree? - No.
+Dialogue: 0,0:28:36.40,0:28:38.80,Chinese,,0,0,0,,{\rChinese}但我们毕竟杀了他父亲\N{\rEnglish}But we did kill his father.
+Dialogue: 0,0:28:39.08,0:28:41.81,Chinese,,0,0,0,,{\rChinese}如果他是郡长，我们可以拿他换赎金\N{\rEnglish}If he's an ealdorman, we could sell him for ransom.
+Dialogue: 0,0:28:41.96,0:28:43.80,Chinese,,0,0,0,,{\rChinese}也许吧\N{\rEnglish}Perhaps.
+Dialogue: 0,0:29:47.80,0:29:51.96,Chinese,,0,0,0,,{\rChinese}布丽达，小心别把水洒了，地板会变成烂泥的\N{\rEnglish}Brida, be careful not to spill the water. You'll turn the floor to mud.
+Dialogue: 0,0:29:52.12,0:29:54.28,Chinese,,0,0,0,,{\rChinese}乌特雷德，去劈柴\N{\rEnglish}Uhtred, wood needs to be chopped.
+Dialogue: 0,0:29:56.28,0:29:58.20,Chinese,,0,0,0,,{\rChinese}布丽达，你去喂山羊\N{\rEnglish}Brida, you can do the goats.
+Dialogue: 0,0:29:58.68,0:30:01.25,Chinese,,0,0,0,,{\rChinese}乌特雷德会有时间玩吗?\N{\rEnglish}(THYRA) Will there be time for Uhtred to play?
+Dialogue: 0,0:30:01.40,0:30:03.56,Chinese,,0,0,0,,{\rChinese}干完活才能玩\N{\rEnglish}Only when work is done.
+Dialogue: 0,0:30:06.08,0:30:08.92,Chinese,,0,0,0,,{\rChinese}我不喜欢咱们女儿跟奴隶一起玩\N{\rEnglish}I don't like our daughter having to play with slaves.
+Dialogue: 0,0:30:09.08,0:30:12.21,Chinese,,0,0,0,,{\rChinese}- 他们只是孩子 - 各有各的位置\N{\rEnglish}- They're only children. - They have a place.
+Dialogue: 0,0:30:12.36,0:30:13.93,Chinese,,0,0,0,,{\rChinese}暴脾气\N{\rEnglish}Grumpy.
+Dialogue: 0,0:30:19.56,0:30:21.29,Chinese,,0,0,0,,{\rChinese}牵我的马来\N{\rEnglish}(RAGNAR) My horse.
+Dialogue: 0,0:30:21.44,0:30:24.12,Chinese,,0,0,0,,{\rChinese}嘿, 拉格纳·拉格纳松\N{\rEnglish}Hey, Ragnar Ragnarson.
+Dialogue: 0,0:30:24.28,0:30:26.85,Chinese,,0,0,0,,{\rChinese}嘿, 不知道哪儿来的乌特雷德\N{\rEnglish}(RAGNAR) Hey, Uhtred of wherever.
+Dialogue: 0,0:30:27.00,0:30:29.16,Chinese,,0,0,0,,{\rChinese}你能教我用剑吗?\N{\rEnglish}How about you teach me how to use a sword?
+Dialogue: 0,0:30:29.32,0:30:31.32,Chinese,,0,0,0,,{\rChinese}我们不教奴隶如何战斗\N{\rEnglish}We don't teach slaves how to fight.
+Dialogue: 0,0:30:31.48,0:30:34.01,Chinese,,0,0,0,,{\rChinese}你那张嘴迟早会要了你的命，小子\N{\rEnglish}That tongue of yours will be your death, boy.
+Dialogue: 0,0:30:34.16,0:30:36.24,Chinese,,0,0,0,,{\rChinese}现在，给我回去干活\N{\rEnglish}Now, get back to work.
+Dialogue: 0,0:30:38.52,0:30:41.28,Chinese,,0,0,0,,{\rChinese}你们打算怎么玩?\N{\rEnglish}What does the play involve?
+Dialogue: 0,0:30:41.44,0:30:43.36,Chinese,,0,0,0,,{\rChinese}我们在峡谷里建了一座大厅\N{\rEnglish}We built a hall in the gorge.
+Dialogue: 0,0:30:43.52,0:30:45.73,Chinese,,0,0,0,,{\rChinese}我是女主人，乌特雷德是战士\N{\rEnglish}I'm the mistress and Uhtred is a warrior.
+Dialogue: 0,0:30:45.88,0:30:47.29,Chinese,,0,0,0,,{\rChinese}不是仆人?\N{\rEnglish}Not a servant?
+Dialogue: 0,0:30:47.44,0:30:49.49,Chinese,,0,0,0,,{\rChinese}这是个游戏\N{\rEnglish}It is a game.
+Dialogue: 0,0:30:50.80,0:30:53.01,Chinese,,0,0,0,,
+Dialogue: 0,0:30:53.16,0:30:54.49,Chinese,,0,0,0,,{\rChinese}- 狼来了  - 乌特雷德\N{\rEnglish}- A wolf! - Uhtred.
+Dialogue: 0,0:30:54.64,0:30:56.05,Chinese,,0,0,0,,{\rChinese}就是一头狼\N{\rEnglish}(UHTRED) That's it, a wolf.
+Dialogue: 0,0:30:56.20,0:30:58.12,Chinese,,0,0,0,,{\rChinese}野猪，小心!\N{\rEnglish}(BRIDA) Boar. Watch out!
+Dialogue: 0,0:30:58.28,0:31:00.52,Chinese,,0,0,0,,{\rChinese}我看见了，尖牙利齿，黄眼睛\N{\rEnglish}(UHTRED) I saw it. Its sharp teeth and yellow eyes.
+Dialogue: 0,0:31:00.68,0:31:04.60,Chinese,,0,0,0,,{\rChinese}- 别让狼靠近我，乌特雷德 - 用火把它们赶走\N{\rEnglish}- Don't let the wolves get to me, Uhtred. - Use the Ere to keep them away.
+Dialogue: 0,0:31:04.76,0:31:07.84,Chinese,,0,0,0,,{\rChinese}我看见它们了，跟乌巴一样壮，味道比他还难闻\N{\rEnglish}I see them. They're as big as Ubba and smell worse.
+Dialogue: 0,0:31:08.00,0:31:09.76,Chinese,,0,0,0,,
+Dialogue: 0,0:31:12.32,0:31:13.76,Chinese,,0,0,0,,{\rChinese}你看见了吗?\N{\rEnglish}Did you see that?
+Dialogue: 0,0:31:16.24,0:31:17.65,Chinese,,0,0,0,,
+Dialogue: 0,0:31:18.44,0:31:19.77,Chinese,,0,0,0,,{\rChinese}乌特雷德\N{\rEnglish}Uhtred.
+Dialogue: 0,0:31:19.92,0:31:21.73,Chinese,,0,0,0,,{\rChinese}待在上面\N{\rEnglish}Stay up there.
+Dialogue: 0,0:31:22.32,0:31:24.08,Chinese,,0,0,0,,{\rChinese}你看\N{\rEnglish}Look.
+Dialogue: 0,0:31:24.56,0:31:27.80,Chinese,,0,0,0,,{\rChinese}乌特雷德，出什么事了? 待在上面，蒂拉\N{\rEnglish}(THYRA) Uhtred, what is happening? (UHTRED) Stay up there, Thyra.
+Dialogue: 0,0:31:27.96,0:31:30.41,Chinese,,0,0,0,,{\rChinese}- 是斯文，他不会伤害你的 - 但他会杀了我们\N{\rEnglish}- It's Sven, he won't hurt you. - (BRIDA) But he'll kill us.
+Dialogue: 0,0:31:30.56,0:31:32.29,Chinese,,0,0,0,,
+Dialogue: 0,0:31:32.44,0:31:34.28,Chinese,,0,0,0,,{\rChinese}他要杀我们! 快跑!\N{\rEnglish}(BRIDA) He'll kill us! Run!
+Dialogue: 0,0:31:41.72,0:31:43.64,Chinese,,0,0,0,,{\rChinese}那是一把真剑\N{\rEnglish}That was a real sword.
+Dialogue: 0,0:31:43.80,0:31:45.45,Chinese,,0,0,0,,{\rChinese}我看见了\N{\rEnglish}(BRIDA) l saw it.
+Dialogue: 0,0:31:45.60,0:31:47.60,Chinese,,0,0,0,,{\rChinese}- 啊! 乌特雷德! - 蒂拉\N{\rEnglish}- (THYRA) Ah! Uhtred! - Thyra.
+Dialogue: 0,0:31:47.76,0:31:49.76,Chinese,,0,0,0,,{\rChinese}乌特雷德!\N{\rEnglish}(THYRA) umred!
+Dialogue: 0,0:31:59.84,0:32:01.20,Chinese,,0,0,0,,
+Dialogue: 0,0:32:05.60,0:32:07.28,Chinese,,0,0,0,,
+Dialogue: 0,0:32:11.68,0:32:13.36,Chinese,,0,0,0,,{\rChinese}脸怎么了？\N{\rEnglish}(RAGNAR) whats this?
+Dialogue: 0,0:32:13.56,0:32:15.77,Chinese,,0,0,0,,{\rChinese}你又打架了?\N{\rEnglish}You been fighting again?
+Dialogue: 0,0:32:16.28,0:32:18.57,Chinese,,0,0,0,,{\rChinese}- 是的 - 跟斯文打的?\N{\rEnglish}- (UHTRED) Yes. - With Sven?
+Dialogue: 0,0:32:19.40,0:32:22.16,Chinese,,0,0,0,,{\rChinese}- 基尔坦的儿子? - 是的\N{\rEnglish}- Kjartan's son? - (UHTRED) Yes.
+Dialogue: 0,0:32:23.08,0:32:25.73,Chinese,,0,0,0,,{\rChinese}- 乌特雷德，他比你大多了 - 他是个烂人\N{\rEnglish}- Uhtred, he's much bigger than you. - He's a turd.
+Dialogue: 0,0:32:25.88,0:32:28.45,Chinese,,0,0,0,,{\rChinese}你干嘛这么说? 谁先动手的?\N{\rEnglish}(SIGRID) Why do you say that? (RAVN) Who started it?
+Dialogue: 0,0:32:29.80,0:32:32.37,Chinese,,0,0,0,,{\rChinese}- 谁先动的手? - 是我先动的手\N{\rEnglish}- Who began the fight? - (UHTRED) I began the fight.
+Dialogue: 0,0:32:32.52,0:32:34.73,Chinese,,0,0,0,,{\rChinese}就因为他是个烂人?\N{\rEnglish}For no other reason than that he's a turd?
+Dialogue: 0,0:32:35.84,0:32:37.76,Chinese,,0,0,0,,{\rChinese}丹麦人为更小的事就杀人了\N{\rEnglish}Danes have murdered for less.
+Dialogue: 0,0:32:37.92,0:32:39.81,Chinese,,0,0,0,,{\rChinese}乌特雷德，够了\N{\rEnglish}(SIGRID) Uhtred, that's enough.
+Dialogue: 0,0:32:40.48,0:32:42.88,Chinese,,0,0,0,,{\rChinese}- 你想被卖掉吗，小子? - 我想吃饭\N{\rEnglish}- You want to be sold, boy? - I wish to eat.
+Dialogue: 0,0:32:43.04,0:32:44.80,Chinese,,0,0,0,,{\rChinese}- 大声说 - 我想吃饭\N{\rEnglish}- Speak up. - (UHTRED) I wish to eat.
+Dialogue: 0,0:32:44.96,0:32:46.85,Chinese,,0,0,0,,{\rChinese}你想吃饭?\N{\rEnglish}You want to eat?
+Dialogue: 0,0:32:49.28,0:32:51.25,Chinese,,0,0,0,,{\rChinese}你想吃饭?\N{\rEnglish}You want to eat?
+Dialogue: 0,0:32:51.40,0:32:53.00,Chinese,,0,0,0,,{\rChinese}你知道吗\N{\rEnglish}You know what?
+Dialogue: 0,0:32:53.16,0:32:55.00,Chinese,,0,0,0,,{\rChinese}要我说你就该饿着\N{\rEnglish}I say you starve.
+Dialogue: 0,0:32:55.16,0:32:57.89,Chinese,,0,0,0,,{\rChinese}打架可以理解，不听话可不行\N{\rEnglish}Fighting is expected, disobedience is not.
+Dialogue: 0,0:32:58.04,0:33:00.85,Chinese,,0,0,0,,{\rChinese}是斯文先动的手\N{\rEnglish}- (SLAP AND UHTRED GRUNTS) -Sven began the fight.
+Dialogue: 0,0:33:02.00,0:33:03.97,Chinese,,0,0,0,,{\rChinese}基尔坦!\N{\rEnglish}Kjartan!
+Dialogue: 0,0:33:04.28,0:33:06.20,Chinese,,0,0,0,,{\rChinese}基尔坦!\N{\rEnglish}Kjartan!
+Dialogue: 0,0:33:11.88,0:33:14.49,Chinese,,0,0,0,,{\rChinese}拉格纳伯爵，请先听我说，他是个好孩子\N{\rEnglish}Earl Ragnar, let me first say, he's a good boy.
+Dialogue: 0,0:33:14.64,0:33:17.93,Chinese,,0,0,0,,{\rChinese}他带着剑闯进我的地盘，我会跟他好好谈谈\N{\rEnglish}He brought a sword onto my land. I will have words with him.
+Dialogue: 0,0:33:18.08,0:33:21.13,Chinese,,0,0,0,,{\rChinese}- 将来他会在你的船上效力 - 他冒犯了我\N{\rEnglish}- In time, he'll serve on your ship. - He has offended me.
+Dialogue: 0,0:33:21.28,0:33:24.36,Chinese,,0,0,0,,{\rChinese}- 他会尊敬你的，他没有恶意 - 他没有恶意?\N{\rEnglish}- He will honour you. He meant no harm. - He meant no harm?
+Dialogue: 0,0:33:24.52,0:33:26.44,Chinese,,0,0,0,,{\rChinese}他看了我女儿的裸体\N{\rEnglish}He looked at my daughter's nakedness.
+Dialogue: 0,0:33:26.60,0:33:29.08,Chinese,,0,0,0,,{\rChinese}他受到惩罚了，你那撒克逊奴隶划伤了他\N{\rEnglish}And he was punished. Your Saxon slave cut him.
+Dialogue: 0,0:33:29.24,0:33:31.13,Chinese,,0,0,0,,{\rChinese}这样我就要放过他吗？\N{\rEnglish}(EARL RAGNAR) Shall I make a square of branches?
+Dialogue: 0,0:33:31.28,0:33:34.89,Chinese,,0,0,0,,{\rChinese}你是要为你儿子跟我打一架，还是把他叫出来?\N{\rEnglish}Are you gonna fight me for your son or fetch him?
+Dialogue: 0,0:33:39.80,0:33:43.01,Chinese,,0,0,0,,{\rChinese}斯文，出来\N{\rEnglish}Sven. Come out here.
+Dialogue: 0,0:33:45.56,0:33:47.88,Chinese,,0,0,0,,{\rChinese}- 把你要说的话告诉他 - 对不起\N{\rEnglish}- Tell him what you have to say. - I'm sorry.
+Dialogue: 0,0:33:48.04,0:33:51.60,Chinese,,0,0,0,,{\rChinese}- 他听不到你说话 - 大人，对不起，我不该那样做\N{\rEnglish}- He can't hear you. - I'm sorry, lord, for what I did.
+Dialogue: 0,0:33:55.68,0:33:58.49,Chinese,,0,0,0,,{\rChinese}你对我女儿动手动脚\N{\rEnglish}You laid hands on my daughter.
+Dialogue: 0,0:33:59.04,0:34:00.37,Chinese,,0,0,0,,{\rChinese}你扒掉了她的衣服\N{\rEnglish}You stripped her naked.
+Dialogue: 0,0:34:00.52,0:34:03.41,Chinese,,0,0,0,,{\rChinese}- 大人，只是脱了一半 - 大人，他这个年纪嘛\N{\rEnglish}- Half-naked, lord. - He's at an age, lord.
+Dialogue: 0,0:34:05.20,0:34:06.88,Chinese,,0,0,0,,{\rChinese}是这样吗?\N{\rEnglish}Is this true?
+Dialogue: 0,0:34:07.04,0:34:09.80,Chinese,,0,0,0,,{\rChinese}- 只脱了一半? - 是的,大人\N{\rEnglish}- Half-naked? - Yes, lord.
+Dialogue: 0,0:34:14.20,0:34:16.96,Chinese,,0,0,0,,{\rChinese}那我就只挖他一只眼\N{\rEnglish}Then I shall only take his one eye.
+Dialogue: 0,0:34:17.12,0:34:19.04,Chinese,,0,0,0,,{\rChinese}不要，大人，求你了\N{\rEnglish}(KJARTAN) No, lord, please. (SVEN) Ah!
+Dialogue: 0,0:34:19.40,0:34:23.61,Chinese,,0,0,0,,{\rChinese}基尔坦，我将你驱逐出我的领地\N{\rEnglish}(EARL RAGNAR) Kjartan, you are banished from my land.
+Dialogue: 0,0:34:24.68,0:34:28.05,Chinese,,0,0,0,,
+Dialogue: 0,0:34:46.04,0:34:48.36,Chinese,,0,0,0,,{\rChinese}我有样东西给你\N{\rEnglish}I have something for you.
+Dialogue: 0,0:34:49.44,0:34:50.88,Chinese,,0,0,0,,{\rChinese}什么东西?\N{\rEnglish}What is it?
+Dialogue: 0,0:34:51.04,0:34:53.96,Chinese,,0,0,0,,{\rChinese}一块护身符，托尔之锤\N{\rEnglish}An amulet. Thor's hammer.
+Dialogue: 0,0:34:54.24,0:34:56.85,Chinese,,0,0,0,,{\rChinese}- 可是…… - 可是什么?\N{\rEnglish}- But, uh... - But what?
+Dialogue: 0,0:34:57.00,0:34:58.92,Chinese,,0,0,0,,{\rChinese}你是基督徒\N{\rEnglish}You're Christian.
+Dialogue: 0,0:34:59.84,0:35:00.84,Chinese,,0,0,0,,{\rChinese}拿着\N{\rEnglish}Take it.
+Dialogue: 0,0:35:04.68,0:35:06.89,Chinese,,0,0,0,,{\rChinese}- 我不能拿 - 你不想要吗?\N{\rEnglish}- I can't. - Don't you want it?
+Dialogue: 0,0:35:07.04,0:35:08.45,Chinese,,0,0,0,,{\rChinese}- 我想要 - 那就拿着\N{\rEnglish}- I do want it. - Take it.
+Dialogue: 0,0:35:08.60,0:35:10.60,Chinese,,0,0,0,,{\rChinese}- 我在想办法拿 - 拿着\N{\rEnglish}- I'm trying. - Take it.
+Dialogue: 0,0:35:10.76,0:35:13.05,Chinese,,0,0,0,,{\rChinese}- 我觉得他不想要 - 我想要\N{\rEnglish}- (RAGNAR) I don't think he wants it. - I do want it.
+Dialogue: 0,0:35:13.20,0:35:15.65,Chinese,,0,0,0,,{\rChinese}不，我看不见得\N{\rEnglish}(RAGNAR) No, I don't think so.
+Dialogue: 0,0:35:19.12,0:35:20.93,Chinese,,0,0,0,,{\rChinese}谢谢\N{\rEnglish}Thank you.
+Dialogue: 0,0:35:22.76,0:35:25.92,Chinese,,0,0,0,,{\rChinese}跟我说说丹麦\N{\rEnglish}Tell me about Denmark.
+Dialogue: 0,0:35:27.20,0:35:29.77,Chinese,,0,0,0,,{\rChinese}你的故乡\N{\rEnglish}Your home.
+Dialogue: 0,0:35:30.08,0:35:32.65,Chinese,,0,0,0,,{\rChinese}丹麦嘛，能说什么\N{\rEnglish}What can I say about Denmark?
+Dialogue: 0,0:35:33.04,0:35:34.64,Chinese,,0,0,0,,{\rChinese}潮湿\N{\rEnglish}(RAGNAR) It's wet.
+Dialogue: 0,0:35:34.88,0:35:36.93,Chinese,,0,0,0,,{\rChinese}又苦寒\N{\rEnglish}And harsh.
+Dialogue: 0,0:35:37.72,0:35:41.77,Chinese,,0,0,0,,{\rChinese}土地很平而且都是沙子，什么也种不出来\N{\rEnglish}The ground is so flat and sandy, you can't grow a fart.
+Dialogue: 0,0:35:41.92,0:35:44.53,Chinese,,0,0,0,,{\rChinese}所以我们才来英格兰\N{\rEnglish}Which is why we're here in England.
+Dialogue: 0,0:35:45.56,0:35:46.89,Chinese,,0,0,0,,{\rChinese}来扎根生息\N{\rEnglish}To grow.
+Dialogue: 0,0:35:47.04,0:35:50.68,Chinese,,0,0,0,,{\rChinese}也是为什么小拉格纳不久后要去爱尔兰\N{\rEnglish}And why young Ragnar will soon be going for Ireland.
+Dialogue: 0,0:35:50.84,0:35:52.84,Chinese,,0,0,0,,{\rChinese}你要走了?\N{\rEnglish}(UHTRED) You leave to Tight?
+Dialogue: 0,0:35:53.12,0:35:55.28,Chinese,,0,0,0,,{\rChinese}为了财富\N{\rEnglish}(RAGNAR) To make my wealth.
+Dialogue: 0,0:35:55.64,0:35:59.96,Chinese,,0,0,0,,{\rChinese}想要土地和银子，就得自己去抢\N{\rEnglish}If you want land or silver, you have to take it.
+Dialogue: 0,0:36:03.52,0:36:08.69,Chinese,,0,0,0,,{\rChinese}今天你让我骄傲，乌特雷德\N{\rEnglish}You made me proud today, Uhtred.
+Dialogue: 0,0:36:10.72,0:36:12.29,Chinese,,0,0,0,,{\rChinese}你真的让我骄傲\N{\rEnglish}You made me proud.
+Dialogue: 0,0:36:44.52,0:36:45.85,Chinese,,0,0,0,,{\rChinese}我不认识你\N{\rEnglish}(AELFRIC) I don't know you.
+Dialogue: 0,0:36:46.00,0:36:48.32,Chinese,,0,0,0,,{\rChinese}你看着不像信使\N{\rEnglish}You don't have the appearance of a messenger,
+Dialogue: 0,0:36:48.48,0:36:51.96,Chinese,,0,0,0,,{\rChinese}- 乌巴的贡款也还没到期 - 不是的，大人\N{\rEnglish}- and Ubba's payment's not yet due. - (KJARTAN) No, lord.
+Dialogue: 0,0:36:52.76,0:36:54.33,Chinese,,0,0,0,,{\rChinese}我是个船主\N{\rEnglish}I was a ship's master.
+Dialogue: 0,0:36:54.48,0:36:58.01,Chinese,,0,0,0,,{\rChinese}我没有船, 也不需要船主\N{\rEnglish}Well, I have no ships. I need no ship's master.
+Dialogue: 0,0:37:02.32,0:37:04.45,Chinese,,0,0,0,,{\rChinese}我有你想听的消息\N{\rEnglish}I have news that you will want to hear.
+Dialogue: 0,0:37:06.48,0:37:09.32,Chinese,,0,0,0,,{\rChinese}- 说吧 - 我想要些回报，大人\N{\rEnglish}- Well? - I would want something in return, lord.
+Dialogue: 0,0:37:10.16,0:37:12.45,Chinese,,0,0,0,,{\rChinese}不是现在，也不是钱\N{\rEnglish}Not now, not coin.
+Dialogue: 0,0:37:12.80,0:37:16.17,Chinese,,0,0,0,,{\rChinese}但也许我们可以长期互相帮衬\N{\rEnglish}But perhaps we can continue to help each other.
+Dialogue: 0,0:37:16.68,0:37:18.01,Chinese,,0,0,0,,{\rChinese}也许吧\N{\rEnglish}Perhaps.
+Dialogue: 0,0:37:18.16,0:37:20.29,Chinese,,0,0,0,,{\rChinese}从这里往南走两天\N{\rEnglish}Two days south of here
+Dialogue: 0,0:37:20.44,0:37:23.33,Chinese,,0,0,0,,{\rChinese}就到了拉格纳伯爵的地盘，我以前侍奉他\N{\rEnglish}is Earl Ragnar, the man I used to serve
+Dialogue: 0,0:37:23.48,0:37:25.61,Chinese,,0,0,0,,{\rChinese}后来他把我驱逐出去\N{\rEnglish}until he banished me.
+Dialogue: 0,0:37:26.64,0:37:30.28,Chinese,,0,0,0,,{\rChinese}他有个奴隶，他对这个奴隶很好\N{\rEnglish}He has a slave, treats him well.
+Dialogue: 0,0:37:31.80,0:37:36.60,Chinese,,0,0,0,,{\rChinese}这个奴隶你有权赎回，如果你想的话\N{\rEnglish}This is a slave you're entitled to buy back if you wish to.
+Dialogue: 0,0:37:37.48,0:37:42.20,Chinese,,0,0,0,,{\rChinese}- 赎回? - 大人，那是您的侄子乌特雷德\N{\rEnglish}- Buy back? - It's your nephew Uhtred, lord.
+Dialogue: 0,0:37:42.88,0:37:44.21,Chinese,,0,0,0,,{\rChinese}他还活着\N{\rEnglish}He lives.
+Dialogue: 0,0:37:59.20,0:38:01.36,Chinese,,0,0,0,,{\rChinese}要是我不想被赎回呢?\N{\rEnglish}(UHTRED) What if I'm against being ransomed?
+Dialogue: 0,0:38:02.48,0:38:07.72,Chinese,,0,0,0,,{\rChinese}你的家人发现你还活着\N{\rEnglish}Your family has discovered that you're still alive
+Dialogue: 0,0:38:07.88,0:38:10.88,Chinese,,0,0,0,,{\rChinese}他们想把你接回去\N{\rEnglish}and they wish for you to be returned.
+Dialogue: 0,0:38:11.04,0:38:12.77,Chinese,,0,0,0,,{\rChinese}但他们得付钱\N{\rEnglish}But they must pay.
+Dialogue: 0,0:38:12.92,0:38:16.92,Chinese,,0,0,0,,{\rChinese}- 付钱给拉格纳? - 乌巴要抽走一大半\N{\rEnglish}- Pay Ragnar? - Ubba takes more than half.
+Dialogue: 0,0:38:17.12,0:38:18.93,Chinese,,0,0,0,,{\rChinese}这很正常\N{\rEnglish}It's normal.
+Dialogue: 0,0:38:22.72,0:38:25.12,Chinese,,0,0,0,,{\rChinese}但我已经没有家人了\N{\rEnglish}But I have no family.
+Dialogue: 0,0:38:28.32,0:38:31.08,Chinese,,0,0,0,,{\rChinese}让他们待在那边，把马拴好\N{\rEnglish}(MAN) Keep them over there, tether the horses.
+Dialogue: 0,0:38:35.80,0:38:38.37,Chinese,,0,0,0,,{\rChinese}斯卡利昂，就是他\N{\rEnglish}Scallion. Him.
+Dialogue: 0,0:38:40.36,0:38:42.04,Chinese,,0,0,0,,{\rChinese}乌特雷德\N{\rEnglish}Uhtred.
+Dialogue: 0,0:38:42.20,0:38:43.88,Chinese,,0,0,0,,{\rChinese}他们待你好吗?\N{\rEnglish}Are they treating you well?
+Dialogue: 0,0:38:44.04,0:38:46.09,Chinese,,0,0,0,,{\rChinese}- 有得吃，是的 - 好\N{\rEnglish}- I am fed, yes. - Good.
+Dialogue: 0,0:38:46.24,0:38:48.29,Chinese,,0,0,0,,{\rChinese}好，那就好\N{\rEnglish}Good, that's all we ask.
+Dialogue: 0,0:38:49.24,0:38:51.48,Chinese,,0,0,0,,{\rChinese}你脖子上挂的是什么，某种象征吗？\N{\rEnglish}What is that around your neck, some symbol?
+Dialogue: 0,0:38:51.64,0:38:55.17,Chinese,,0,0,0,,{\rChinese}- 哦，这个? 他们让我戴的 - 我能看看吗?\N{\rEnglish}- Oh, this? They make me wear it. - May I see it?
+Dialogue: 0,0:39:02.04,0:39:04.52,Chinese,,0,0,0,,{\rChinese}听着，我得和你说实话\N{\rEnglish}(WHISPERS) Look, I will speak plainly.
+Dialogue: 0,0:39:04.68,0:39:06.20,Chinese,,0,0,0,,{\rChinese}你叔父会杀了你的\N{\rEnglish}Your uncle will kill you.
+Dialogue: 0,0:39:07.16,0:39:09.61,Chinese,,0,0,0,,{\rChinese}明白吗? 你不能回贝班堡\N{\rEnglish}Right? You cannot go back to Bebbanburg.
+Dialogue: 0,0:39:09.76,0:39:11.17,Chinese,,0,0,0,,{\rChinese}你必须逃走\N{\rEnglish}You must escape.
+Dialogue: 0,0:39:12.24,0:39:14.69,Chinese,,0,0,0,,{\rChinese}他想当郡长，想当国王\N{\rEnglish}He wants to be the ealdorman, wants to be king.
+Dialogue: 0,0:39:14.84,0:39:16.76,Chinese,,0,0,0,,{\rChinese}就像那边那个可怜虫埃格伯特一样\N{\rEnglish}Like the pathetic Egbert over there.
+Dialogue: 0,0:39:16.92,0:39:20.48,Chinese,,0,0,0,,{\rChinese}给丹麦主子当傀儡国王，你该去威塞克斯\N{\rEnglish}A puppet king for his Danish masters. You should go to Wessex.
+Dialogue: 0,0:39:20.64,0:39:24.01,Chinese,,0,0,0,,{\rChinese}去找真正的国王埃塞尔雷德和他的兄弟阿尔弗雷德王子\N{\rEnglish}Seek out for that real King Aethelred and his brother the Prince Alfred,
+Dialogue: 0,0:39:24.16,0:39:25.97,Chinese,,0,0,0,,{\rChinese}他们是好人，虔诚的基督徒\N{\rEnglish}they're good men, good Christian men.
+Dialogue: 0,0:39:26.12,0:39:29.20,Chinese,,0,0,0,,{\rChinese}你在他耳边说够了没有，神父\N{\rEnglish}(EARL RAGNAR) That's enough whispering in his ear, priest.
+Dialogue: 0,0:39:30.00,0:39:31.44,Chinese,,0,0,0,,{\rChinese}- 乌特雷德 - 再多说一个字\N{\rEnglish}- Uhtred. - One more word,
+Dialogue: 0,0:39:31.60,0:39:33.52,Chinese,,0,0,0,,{\rChinese}我就把你的蛋蛋割下来做成钱袋\N{\rEnglish}I'll have your ball bag for a purse.
+Dialogue: 0,0:39:33.68,0:39:37.45,Chinese,,0,0,0,,{\rChinese}我在那儿等你 不必了\N{\rEnglish}I'll meet you there. That will not be necessary.
+Dialogue: 0,0:39:38.60,0:39:40.04,Chinese,,0,0,0,,{\rChinese}他说什么了?\N{\rEnglish}What did he say?
+Dialogue: 0,0:39:40.20,0:39:43.68,Chinese,,0,0,0,,{\rChinese}他... 他问你有没有好好待我\N{\rEnglish}He... He asked if you were treating me well.
+Dialogue: 0,0:40:02.80,0:40:04.45,Chinese,,0,0,0,,{\rChinese}多少? 三百银币\N{\rEnglish}(AELFRIC) How much? (RAVN) Three hundred.
+Dialogue: 0,0:40:04.60,0:40:06.09,Chinese,,0,0,0,,{\rChinese}你这是狮子大开口\N{\rEnglish}(AELFRIC) That is a ridiculous amount.
+Dialogue: 0,0:40:06.24,0:40:08.56,Chinese,,0,0,0,,{\rChinese}一个孩子怎么可能值三百银币?\N{\rEnglish}How can a boy be worth 300 pieces of silver?
+Dialogue: 0,0:40:08.72,0:40:14.09,Chinese,,0,0,0,,{\rChinese}因为我说了算，因为他是领主，是郡长\N{\rEnglish}Because I say so, because he is a lord and an ealdorman.
+Dialogue: 0,0:40:14.24,0:40:15.60,Chinese,,0,0,0,,{\rChinese}不, 他只是个孩子\N{\rEnglish}No, he is a boy.
+Dialogue: 0,0:40:15.76,0:40:19.21,Chinese,,0,0,0,,{\rChinese}我才是贝班堡的郡长，我掌着印章和旗帜\N{\rEnglish}I am the ealdorman of Bebbanburg. I carry the seal and banner.
+Dialogue: 0,0:40:19.36,0:40:21.97,Chinese,,0,0,0,,{\rChinese}那印章是我父亲的，现在是我的\N{\rEnglish}That seal is my father's, which is now mine.
+Dialogue: 0,0:40:22.12,0:40:25.49,Chinese,,0,0,0,,{\rChinese}给我闭嘴，你不过是待价而沽的货\N{\rEnglish}You be silent. You are for sale, nothing more.
+Dialogue: 0,0:40:25.64,0:40:27.77,Chinese,,0,0,0,,{\rChinese}- 是赎金，大人 - 我就是这个意思\N{\rEnglish}- For ransom, lord. - That's what I said.
+Dialogue: 0,0:40:27.92,0:40:31.00,Chinese,,0,0,0,,{\rChinese}各位大人，我已经献出了土地和马匹\N{\rEnglish}My lords, I have given up land, horses.
+Dialogue: 0,0:40:31.16,0:40:34.24,Chinese,,0,0,0,,{\rChinese}还提供了大量粮食和我的剑\N{\rEnglish}I've offered a generous supply of food as well as my sword.
+Dialogue: 0,0:40:34.40,0:40:37.80,Chinese,,0,0,0,,{\rChinese}我只求一个公道的价钱来换回我唯一的侄子\N{\rEnglish}All I ask in return is a fair price for my only nephew.
+Dialogue: 0,0:40:37.96,0:40:40.77,Chinese,,0,0,0,,{\rChinese}你觉得什么价钱算公道?\N{\rEnglish}(RAVN) What would you say is a fair price?
+Dialogue: 0,0:40:40.92,0:40:44.05,Chinese,,0,0,0,,{\rChinese}- 我出一百银币 - 两百银币\N{\rEnglish}- I'll offer a hundred pieces of silver. - (RAVN) Two hundred.
+Dialogue: 0,0:40:44.20,0:40:48.49,Chinese,,0,0,0,,{\rChinese}我的效忠加上一百块银子，这价钱够公道了\N{\rEnglish}My allegiance and 100 pieces is surely a fair price.
+Dialogue: 0,0:40:48.64,0:40:50.96,Chinese,,0,0,0,,{\rChinese}不够\N{\rEnglish}(RAVN) It is not.
+Dialogue: 0,0:40:51.92,0:40:55.37,Chinese,,0,0,0,,{\rChinese}我出一百二十银币买这孩子\N{\rEnglish}I will give 120 pieces of silver for the boy.
+Dialogue: 0,0:40:55.52,0:40:57.81,Chinese,,0,0,0,,{\rChinese}呵呵呵，不够\N{\rEnglish}(RAVN) Heh, heh, heh. Not enough.
+Dialogue: 0,0:41:00.44,0:41:02.12,Chinese,,0,0,0,,{\rChinese}好吧\N{\rEnglish}Very well.
+Dialogue: 0,0:41:02.40,0:41:04.88,Chinese,,0,0,0,,{\rChinese}两百块\N{\rEnglish}Two hundred pieces.
+Dialogue: 0,0:41:05.04,0:41:07.17,Chinese,,0,0,0,,{\rChinese}我接受你的条件\N{\rEnglish}I agree to your terms.
+Dialogue: 0,0:41:09.12,0:41:11.01,Chinese,,0,0,0,,
+Dialogue: 0,0:41:16.64,0:41:18.53,Chinese,,0,0,0,,{\rChinese}这孩子卖给拉格纳伯爵了\N{\rEnglish}The boy is sold to Earl Ragnar.
+Dialogue: 0,0:41:18.68,0:41:20.60,Chinese,,0,0,0,,{\rChinese}- 什么? - 是赎回, 大人\N{\rEnglish}- What? - (RAVN) Ransomed, lord.
+Dialogue: 0,0:41:20.76,0:41:23.05,Chinese,,0,0,0,,{\rChinese}我就是这个意思，此事已定\N{\rEnglish}That is what I said. The matter is closed.
+Dialogue: 0,0:41:23.84,0:41:27.13,Chinese,,0,0,0,,{\rChinese}各位大人，我不远万里赶来，还献上了我的忠诚\N{\rEnglish}My lords, I have come a long way. I have offered my allegiance.
+Dialogue: 0,0:41:27.28,0:41:30.20,Chinese,,0,0,0,,{\rChinese}所以你才能活到现在\N{\rEnglish}Which is why you're allowed to breathe.
+Dialogue: 0,0:41:32.12,0:41:35.41,Chinese,,0,0,0,,{\rChinese}如果你有异议, 那就是对我有意见\N{\rEnglish}If you have an argument, it's with me now.
+Dialogue: 0,0:41:43.72,0:41:45.45,Chinese,,0,0,0,,{\rChinese}事情谈完了的话\N{\rEnglish}If business is done,
+Dialogue: 0,0:41:45.60,0:41:49.13,Chinese,,0,0,0,,{\rChinese}- 我们喝酒去 - 埃格伯特王该坐下歇歇了\N{\rEnglish}- we have ale to drink. - (UBBA) And King Egbert needs to sit.
+Dialogue: 0,0:41:49.32,0:41:51.48,Chinese,,0,0,0,,
+Dialogue: 0,0:41:59.32,0:42:01.48,Chinese,,0,0,0,,{\rChinese}我不用被赎了吗?\N{\rEnglish}(UHTRED) Am I not for ransom anymore?
+Dialogue: 0,0:42:01.64,0:42:04.77,Chinese,,0,0,0,,{\rChinese}你听到乌巴说的了，我把你买下来了\N{\rEnglish}(EARL RAGNAR) You heard Ubba, I bought you.
+Dialogue: 0,0:42:05.88,0:42:09.28,Chinese,,0,0,0,,{\rChinese}我本来想把你献祭给奥丁\N{\rEnglish}I thought I might sacrifice you to Odin.
+Dialogue: 0,0:42:10.12,0:42:11.61,Chinese,,0,0,0,,{\rChinese}你花了多少买我?\N{\rEnglish}You bought me for how much?
+Dialogue: 0,0:42:11.76,0:42:14.65,Chinese,,0,0,0,,{\rChinese}- 太多了 - 多少叫太多?\N{\rEnglish}- Too much. - How much is too much?
+Dialogue: 0,0:42:14.80,0:42:17.45,Chinese,,0,0,0,,{\rChinese}我那把剑等重的银子\N{\rEnglish}My sword's weight in silver.
+Dialogue: 0,0:42:17.60,0:42:21.60,Chinese,,0,0,0,,{\rChinese}我承认我可能是吃亏了，但我们喜欢你，孩子\N{\rEnglish}I agree I may have been robbed, but we like you, boy.
+Dialogue: 0,0:42:21.76,0:42:23.81,Chinese,,0,0,0,,{\rChinese}我们要留下你\N{\rEnglish}We're going to keep you.
+Dialogue: 0,0:42:24.28,0:42:25.93,Chinese,,0,0,0,,{\rChinese}这是说我成丹麦人了?\N{\rEnglish}(UHTRED) Does this mean I'm a Dane?
+Dialogue: 0,0:42:26.08,0:42:28.73,Chinese,,0,0,0,,{\rChinese}这是说你是乌特雷德·拉格纳松\N{\rEnglish}It means you're Uhtred Ragnarson.
+Dialogue: 0,0:42:28.88,0:42:31.25,Chinese,,0,0,0,,{\rChinese}- 你现在是我的儿子了 - 啊!\N{\rEnglish}- You are a son to me now. - Ah!
+Dialogue: 0,0:43:00.24,0:43:02.72,Chinese,,0,0,0,,{\rChinese}布丽达，不是那边，把山羊从旁边牵出去\N{\rEnglish}Brida, not that way. Take the goat out the side.
+Dialogue: 0,0:43:02.88,0:43:04.69,Chinese,,0,0,0,,{\rChinese}下次，我保证\N{\rEnglish}Next time, I promise.
+Dialogue: 0,0:43:04.84,0:43:08.05,Chinese,,0,0,0,,{\rChinese}- 母亲，你看 - 真美，真的很美\N{\rEnglish}- Mother, look. - It's beautiful. It really is.
+Dialogue: 0,0:43:08.56,0:43:10.64,Chinese,,0,0,0,,{\rChinese}我不敢相信我就要失去你了\N{\rEnglish}I can't believe I'm losing you already.
+Dialogue: 0,0:43:10.80,0:43:13.20,Chinese,,0,0,0,,{\rChinese}我就住在田地对面\N{\rEnglish}I will be living across the field.
+Dialogue: 0,0:43:13.36,0:43:17.05,Chinese,,0,0,0,,{\rChinese}他要是待你不好，就穿过那片田走回来\N{\rEnglish}If he doesn't treat you well, come marching back across that field.
+Dialogue: 0,0:43:30.96,0:43:34.17,Chinese,,0,0,0,,{\rChinese}哦，你看这地方\N{\rEnglish}(UHTRED) Oh, look at this place.
+Dialogue: 0,0:43:34.64,0:43:39.28,Chinese,,0,0,0,,{\rChinese}乌特雷德，你喜欢我的婚礼项链吗?\N{\rEnglish}Uhtred, do you like my wedding necklace?
+Dialogue: 0,0:43:39.52,0:43:41.57,Chinese,,0,0,0,,{\rChinese}喜欢，很漂亮\N{\rEnglish}I do. Very pretty.
+Dialogue: 0,0:43:41.72,0:43:45.17,Chinese,,0,0,0,,{\rChinese}他懂什么项链\N{\rEnglish}(RAVN) He doesn't know anything about necklaces.
+Dialogue: 0,0:43:46.08,0:43:47.44,Chinese,,0,0,0,,{\rChinese}还不如来问我\N{\rEnglish}You might as well ask me.
+Dialogue: 0,0:43:47.60,0:43:50.36,Chinese,,0,0,0,,{\rChinese}乌特雷德，跟我来，帮我宰山羊\N{\rEnglish}Uhtred, with me. You can help me slaughter the goats.
+Dialogue: 0,0:43:50.52,0:43:52.44,Chinese,,0,0,0,,{\rChinese}- 我刚洗完澡 - 哈哈\N{\rEnglish}(UHTRED) I've only just washed. (EARL RAGNAR) Ha, ha.
+Dialogue: 0,0:43:52.60,0:43:55.17,Chinese,,0,0,0,,{\rChinese}山羊会高兴的\N{\rEnglish}The goats will be pleased.
+Dialogue: 0,0:43:59.64,0:44:03.44,Chinese,,0,0,0,,{\rChinese}在那之后，你可以扫扫地\N{\rEnglish}Later you can sweep the floor. Unh! Ha, ha, ha.
+Dialogue: 0,0:44:05.44,0:44:07.01,Chinese,,0,0,0,,{\rChinese}挪开\N{\rEnglish}Move over.
+Dialogue: 0,0:44:09.60,0:44:12.57,Chinese,,0,0,0,,{\rChinese}找个借口聊聊，仅此而已\N{\rEnglish}This is an excuse to talk, that's all.
+Dialogue: 0,0:44:12.96,0:44:14.29,Chinese,,0,0,0,,{\rChinese}蒂拉就要成亲了\N{\rEnglish}With Thyra to be married,
+Dialogue: 0,0:44:14.44,0:44:16.73,Chinese,,0,0,0,,{\rChinese}也许是时候让你和布丽达定下来了\N{\rEnglish}maybe it's time you got together with Bride.
+Dialogue: 0,0:44:16.88,0:44:20.12,Chinese,,0,0,0,,{\rChinese}有些男人，不错的男人，在打听她的事\N{\rEnglish}There are men, good men, asking about her.
+Dialogue: 0,0:44:20.28,0:44:22.49,Chinese,,0,0,0,,{\rChinese}所以你得想清楚你对她算什么\N{\rEnglish}So you have to decide what you are to her.
+Dialogue: 0,0:44:22.88,0:44:24.53,Chinese,,0,0,0,,{\rChinese}- 你们两个到底是什么关系 - 呵呵呵\N{\rEnglish}- What you are to each other. - Heh, heh, heh.
+Dialogue: 0,0:44:24.68,0:44:26.73,Chinese,,0,0,0,,{\rChinese}- 布丽达有自己的主意 - 是啊\N{\rEnglish}- Brida has her own mind. - She has.
+Dialogue: 0,0:44:26.88,0:44:28.96,Chinese,,0,0,0,,{\rChinese}但我看得出她看你的眼神\N{\rEnglish}But I see the way she looks at you.
+Dialogue: 0,0:44:29.88,0:44:34.17,Chinese,,0,0,0,,{\rChinese}她今晚在林子里看守炭窑\N{\rEnglish}She's watching the charcoal tonight in the woods.
+Dialogue: 0,0:44:34.32,0:44:36.89,Chinese,,0,0,0,,{\rChinese}骑我的马去找她\N{\rEnglish}Take my horse and join her.
+Dialogue: 0,0:44:37.04,0:44:39.80,Chinese,,0,0,0,,{\rChinese}- 地上还暖着呢 - 哈哈哈\N{\rEnglish}- The earth will be warm. - Heh, heh, heh.
+Dialogue: 0,0:44:41.24,0:44:42.97,Chinese,,0,0,0,,{\rChinese}为什么不呢\N{\rEnglish}Why not?
+Dialogue: 0,0:44:44.64,0:44:48.77,Chinese,,0,0,0,,{\rChinese}我只是以为要成为真正的丹麦人，就得娶个丹麦女人\N{\rEnglish}I just thought in order to be a real Dane, I had to marry a Dane.
+Dialogue: 0,0:44:51.08,0:44:52.41,Chinese,,0,0,0,,{\rChinese}去吧\N{\rEnglish}Come on.
+Dialogue: 0,0:44:53.76,0:44:56.84,Chinese,,0,0,0,,{\rChinese}我疼你，就像疼小拉格纳一样\N{\rEnglish}I love you like I love young Ragnar.
+Dialogue: 0,0:45:01.68,0:45:03.04,Chinese,,0,0,0,,
+Dialogue: 0,0:45:05.24,0:45:06.92,Chinese,,0,0,0,,
+Dialogue: 0,0:45:11.44,0:45:14.20,Chinese,,0,0,0,,
+Dialogue: 0,0:45:28.96,0:45:30.40,Chinese,,0,0,0,,{\rChinese}你在这儿干什么\N{\rEnglish}What are you doing here?
+Dialogue: 0,0:46:06.76,0:46:09.33,Chinese,,0,0,0,,
+Dialogue: 0,0:46:12.52,0:46:15.92,Chinese,,0,0,0,,
+Dialogue: 0,0:46:24.80,0:46:27.72,Chinese,,0,0,0,,{\rChinese}你有没有想过你以前作为英格兰人的日子\N{\rEnglish}Do you ever think of your English life?
+Dialogue: 0,0:46:30.96,0:46:33.88,Chinese,,0,0,0,,{\rChinese}在我们来到拉格纳这里之前，你是什么样的人\N{\rEnglish}Who you were before we came to Ragnar?
+Dialogue: 0,0:46:36.28,0:46:37.80,Chinese,,0,0,0,,{\rChinese}没有\N{\rEnglish}No.
+Dialogue: 0,0:46:39.64,0:46:41.24,Chinese,,0,0,0,,{\rChinese}你呢\N{\rEnglish}Do you?
+Dialogue: 0,0:46:45.40,0:46:47.00,Chinese,,0,0,0,,{\rChinese}- 我想到我… - 嘘\N{\rEnglish}- I think of who I... - Shh.
+Dialogue: 0,0:46:47.16,0:46:48.92,Chinese,,0,0,0,,
+Dialogue: 0,0:46:50.52,0:46:52.33,Chinese,,0,0,0,,{\rChinese}有声音\N{\rEnglish}(BRIDA) Voices.
+Dialogue: 0,0:46:54.16,0:46:56.13,Chinese,,0,0,0,,{\rChinese}下面有人\N{\rEnglish}Men below.
+Dialogue: 0,0:47:02.84,0:47:04.41,Chinese,,0,0,0,,
+Dialogue: 0,0:47:11.68,0:47:14.44,Chinese,,0,0,0,,{\rChinese}是丹麦人，他们是谁\N{\rEnglish}Danes. Who are they?
+Dialogue: 0,0:47:15.80,0:47:17.85,Chinese,,0,0,0,,{\rChinese}那是基尔坦\N{\rEnglish}That's Kjartan.
+Dialogue: 0,0:47:18.24,0:47:20.16,Chinese,,0,0,0,,{\rChinese}还记得他吗\N{\rEnglish}Remember him?
+Dialogue: 0,0:47:21.00,0:47:23.32,Chinese,,0,0,0,,{\rChinese}那个一定是斯文\N{\rEnglish}And that must be Sven.
+Dialogue: 0,0:47:23.64,0:47:25.61,Chinese,,0,0,0,,{\rChinese}不对劲，我们得去告诉拉格纳\N{\rEnglish}This is wrong. We need to tell Ragnar.
+Dialogue: 0,0:47:25.76,0:47:27.44,Chinese,,0,0,0,,{\rChinese}他们挡在我们和大厅之间\N{\rEnglish}They're between us and the hall.
+Dialogue: 0,0:47:27.60,0:47:31.37,Chinese,,0,0,0,,{\rChinese}那我们就绕路上去，把马留下，徒步跑过去\N{\rEnglish}Then we go up and around. We leave the horses and run.
+Dialogue: 0,0:47:37.52,0:47:40.33,Chinese,,0,0,0,,{\rChinese}就在门前，对，就这样\N{\rEnglish}(KJARTAN) In front of the door. That's it.
+Dialogue: 0,0:47:49.68,0:47:51.65,Chinese,,0,0,0,,{\rEnglish}(DOG BARKING)
+Dialogue: 0,0:47:59.72,0:48:02.37,Chinese,,0,0,0,,{\rChinese}拉格纳，有烟\N{\rEnglish}(RAVN) Ragnar, smoke.
+Dialogue: 0,0:48:03.24,0:48:05.48,Chinese,,0,0,0,,{\rChinese}着火了！蒂拉，快醒来！\N{\rEnglish}Fire! Thyra, wake up!
+Dialogue: 0,0:48:05.64,0:48:07.40,Chinese,,0,0,0,,{\rChinese}都醒醒！快起来！\N{\rEnglish}All them! Wake up!
+Dialogue: 0,0:48:07.56,0:48:09.69,Chinese,,0,0,0,,{\rChinese}着火了！\N{\rEnglish}Fire!
+Dialogue: 0,0:48:10.60,0:48:13.08,Chinese,,0,0,0,,
+Dialogue: 0,0:48:16.40,0:48:17.89,Chinese,,0,0,0,,{\rChinese}快来 快点\N{\rEnglish}(EARL RAGNAR) Come on! Come on!
+Dialogue: 0,0:48:18.04,0:48:19.64,Chinese,,0,0,0,,{\rChinese}这边走 拉文\N{\rEnglish}(SIGRID) This way. Ravn.
+Dialogue: 0,0:48:20.88,0:48:23.56,Chinese,,0,0,0,,{\rChinese}- 救救我！- 来，快跟我来\N{\rEnglish}(WOMAN) Help me! (SIGRID) Come. Come, quickly.
+Dialogue: 0,0:48:23.72,0:48:25.29,Chinese,,0,0,0,,{\rChinese}快来\N{\rEnglish}Come.
+Dialogue: 0,0:48:27.36,0:48:29.89,Chinese,,0,0,0,,{\rChinese}- 这边门堵死了 - 这边也是\N{\rEnglish}- The door is blocked. - So is this one.
+Dialogue: 0,0:48:33.72,0:48:35.05,Chinese,,0,0,0,,{\rChinese}做好准备\N{\rEnglish}Be ready.
+Dialogue: 0,0:48:35.24,0:48:36.97,Chinese,,0,0,0,,
+Dialogue: 0,0:48:37.12,0:48:40.52,Chinese,,0,0,0,,{\rChinese}这边开着！这边开着，跟我来\N{\rEnglish}(MAN) This one's open! This one's open. Come on, follow me.
+Dialogue: 0,0:48:40.68,0:48:42.25,Chinese,,0,0,0,,{\rChinese}这边走\N{\rEnglish}(WOMAN) This way.
+Dialogue: 0,0:48:42.72,0:48:44.53,Chinese,,0,0,0,,{\rChinese}抓住孩子们\N{\rEnglish}(KJARTAN) Take the children.
+Dialogue: 0,0:48:47.96,0:48:49.88,Chinese,,0,0,0,,{\rChinese}全抓走\N{\rEnglish}Take them all.
+Dialogue: 0,0:48:50.08,0:48:52.53,Chinese,,0,0,0,,
+Dialogue: 0,0:48:54.28,0:48:55.61,Chinese,,0,0,0,,{\rChinese}弓箭手！\N{\rEnglish}(KJARTAN) Archers!
+Dialogue: 0,0:48:56.00,0:48:57.65,Chinese,,0,0,0,,{\rChinese}别上去，等我\N{\rEnglish}Don't go up there. Wait for me.
+Dialogue: 0,0:48:57.80,0:48:59.21,Chinese,,0,0,0,,{\rChinese}过来 过来\N{\rEnglish}(SIGRID) Come. Come.
+Dialogue: 0,0:49:00.76,0:49:03.37,Chinese,,0,0,0,,{\rChinese}- 啊！- 拉格纳\N{\rEnglish}- Unh! - (SIGRID) Ragnar.
+Dialogue: 0,0:49:03.52,0:49:06.84,Chinese,,0,0,0,,{\rChinese}关上门，蒂拉已经在我们手里了，其余的人就让他们烧死吧\N{\rEnglish}Close the doors. We have Thyra. Let the rest burn.
+Dialogue: 0,0:49:11.80,0:49:14.17,Chinese,,0,0,0,,
+Dialogue: 0,0:49:17.96,0:49:19.93,Chinese,,0,0,0,,
+Dialogue: 0,0:50:04.08,0:50:07.80,Chinese,,0,0,0,,{\rChinese}带她一同去英灵殿\N{\rEnglish}Take her with you to Valhalla.
+Dialogue: 0,0:50:07.96,0:50:10.53,Chinese,,0,0,0,,{\rChinese}好，我在那里等你\N{\rEnglish}Yes. I will meet you there.
+Dialogue: 0,0:50:25.56,0:50:28.93,Chinese,,0,0,0,,{\rChinese}啊！\N{\rEnglish}Argh!
+Dialogue: 0,0:50:29.48,0:50:33.01,Chinese,,0,0,0,,
+Dialogue: 0,0:50:41.76,0:50:44.33,Chinese,,0,0,0,,
+Dialogue: 0,0:50:46.12,0:50:47.69,Chinese,,0,0,0,,{\rChinese}不，不！\N{\rEnglish}No. Oh, no.
+Dialogue: 0,0:50:50.44,0:50:53.41,Chinese,,0,0,0,,
+Dialogue: 0,0:50:59.08,0:51:00.76,Chinese,,0,0,0,,
+Dialogue: 0,0:51:04.76,0:51:06.09,Chinese,,0,0,0,,
+Dialogue: 0,0:51:06.24,0:51:07.73,Chinese,,0,0,0,,{\rChinese}找银子\N{\rEnglish}Find the silver.
+Dialogue: 0,0:51:08.80,0:51:10.13,Chinese,,0,0,0,,{\rChinese}快！\N{\rEnglish}Now!
+Dialogue: 0,0:51:19.08,0:51:21.69,Chinese,,0,0,0,,
+Dialogue: 0,0:51:22.16,0:51:24.77,Chinese,,0,0,0,,{\rChinese}他们在搜拉格纳的财宝\N{\rEnglish}They're searching for Ragnar's wealth.
+Dialogue: 0,0:51:26.48,0:51:29.29,Chinese,,0,0,0,,{\rChinese}- 他们找不到的 - 去后面搜！\N{\rEnglish}- They'll never find it. - (KJARTAN) Search in the back.
+Dialogue: 0,0:51:29.80,0:51:32.04,Chinese,,0,0,0,,{\rChinese}快点，我们马上就走\N{\rEnglish}Come on, we're leaving soon.
+Dialogue: 0,0:51:34.44,0:51:39.16,Chinese,,0,0,0,,{\rChinese}你以为我离开了你，还娶了别人\N{\rEnglish}You thought I'd left you, marry someone else.
+Dialogue: 0,0:51:42.40,0:51:45.13,Chinese,,0,0,0,,{\rChinese}但你知道\N{\rEnglish}But do you know
+Dialogue: 0,0:51:45.76,0:51:48.89,Chinese,,0,0,0,,{\rChinese}我要对这副身子做些什么吗？\N{\rEnglish}what I will do with this body?
+Dialogue: 0,0:51:49.60,0:51:52.92,Chinese,,0,0,0,,{\rChinese}对这张嘴？\N{\rEnglish}This mouth?
+Dialogue: 0,0:51:57.76,0:52:01.24,Chinese,,0,0,0,,{\rChinese}我要把所有梦里想过的事都做一遍\N{\rEnglish}I will do all I have dreamt of
+Dialogue: 0,0:52:01.56,0:52:03.24,Chinese,,0,0,0,,{\rChinese}还不止这些\N{\rEnglish}and more.
+Dialogue: 0,0:52:03.40,0:52:06.13,Chinese,,0,0,0,,{\rChinese}谁又能阻止我？\N{\rEnglish}And who will call a halt?
+Dialogue: 0,0:52:08.12,0:52:12.04,Chinese,,0,0,0,,{\rChinese}无畏伯爵拉格纳已死\N{\rEnglish}Earl Ragnar the Fearless is gone.
+Dialogue: 0,0:52:12.48,0:52:18.96,Chinese,,0,0,0,,{\rChinese}跟他一起的，还有乌特雷德，他那条撒克逊宠物\N{\rEnglish}And with him, Uhtred, his Saxon pet,
+Dialogue: 0,0:52:19.12,0:52:22.12,Chinese,,0,0,0,,{\rChinese}都化成灰了\N{\rEnglish}a pile of ashes.
+Dialogue: 0,0:52:30.12,0:52:31.72,Chinese,,0,0,0,,{\rChinese}随便你\N{\rEnglish}Anything.
+Dialogue: 0,0:52:39.96,0:52:45.05,Chinese,,0,0,0,,{\rChinese}- 嘘，蹲下 - 你看那个撒克逊人\N{\rEnglish}- Shh. Get down. - Look at that man, the Saxon.
+Dialogue: 0,0:52:45.20,0:52:47.52,Chinese,,0,0,0,,{\rChinese}他叫斯卡利昂，是我叔父的手下\N{\rEnglish}His name's Scallion. He works with my uncle.
+Dialogue: 0,0:52:47.68,0:52:50.68,Chinese,,0,0,0,,{\rChinese}- 他会去告诉叔父我已经死了 - 就让他去说吧\N{\rEnglish}- He'll tell him that I'm dead. - Let him do it.
+Dialogue: 0,0:52:50.84,0:52:53.65,Chinese,,0,0,0,,{\rChinese}- 我看见他和基尔坦在一起 - 把这里烧成灰\N{\rEnglish}- I see him with Kjartan. - (KJARTAN) Burn it to the ground.
+Dialogue: 0,0:52:53.80,0:52:55.56,Chinese,,0,0,0,,{\rChinese}也许他们在同流合污\N{\rEnglish}(BRIDA) Maybe they're in it together.
+Dialogue: 0,0:52:55.72,0:52:58.77,Chinese,,0,0,0,,{\rChinese}他们凭什么以为这么做不会受到惩罚?\N{\rEnglish}And what makes them believe they can do this without punishment?
+Dialogue: 0,0:52:59.00,0:53:02.21,Chinese,,0,0,0,,{\rChinese}嘘，他们会受到惩罚的，但不该出自你之手\N{\rEnglish}Shh. They will be punished, but not by you.
+Dialogue: 0,0:53:02.36,0:53:04.93,Chinese,,0,0,0,,{\rChinese}乌特雷德，听我说，活着才是对拉格纳最好的交代\N{\rEnglish}Uhtred, listen to me, we serve Ragnar best alive.
+Dialogue: 0,0:53:05.08,0:53:07.32,Chinese,,0,0,0,,{\rChinese}我们要把这件事说出去\N{\rEnglish}We tell the story.
+Dialogue: 0,0:53:08.28,0:53:10.73,Chinese,,0,0,0,,{\rChinese}- 我要杀人 - 不行\N{\rEnglish}- I need to kill someone. - No.
+Dialogue: 0,0:53:10.88,0:53:13.01,Chinese,,0,0,0,,{\rChinese}我选他\N{\rEnglish}And I choose him.
+Dialogue: 0,0:53:15.04,0:53:16.37,Chinese,,0,0,0,,{\rChinese}乌特雷德，不行\N{\rEnglish}Uhtred, no.
+Dialogue: 0,0:53:17.84,0:53:19.52,Chinese,,0,0,0,,{\rChinese}快点\N{\rEnglish}(KJARTAN) Come on!
+Dialogue: 0,0:53:24.76,0:53:26.09,Chinese,,0,0,0,,
+Dialogue: 0,0:53:29.76,0:53:31.44,Chinese,,0,0,0,,
+Dialogue: 0,0:53:34.88,0:53:38.04,Chinese,,0,0,0,,{\rChinese}最主要的事情是把马都聚在这儿\N{\rEnglish}(KJARTAN) The main thing is to keep the horses together here.
+Dialogue: 0,0:53:39.00,0:53:40.89,Chinese,,0,0,0,,{\rChinese}别把武器留在这里\N{\rEnglish}Don't leave any weapons behind.
+Dialogue: 0,0:53:42.08,0:53:45.00,Chinese,,0,0,0,,{\rChinese}把那些搬过去，去后面看看\N{\rEnglish}Move those over and we'll look in the back.
+Dialogue: 0,0:53:45.16,0:53:48.24,Chinese,,0,0,0,,{\rChinese}别留在里面，全都搬出来\N{\rEnglish}Don't leave anything in there. Just bring it all out.
+Dialogue: 0,0:53:58.84,0:54:00.68,Chinese,,0,0,0,,{\rChinese}再来一点\N{\rEnglish}(KJARTAN) A little bit more.
+Dialogue: 0,0:54:14.72,0:54:16.88,Chinese,,0,0,0,,{\rChinese}好 在这边！\N{\rEnglish}(KJARTAN) Yeah. (MAN) Over here!
+Dialogue: 0,0:54:17.68,0:54:19.28,Chinese,,0,0,0,,{\rChinese}嘿，快点\N{\rEnglish}(KJARTAN) Hey, come on.
+Dialogue: 0,0:54:19.60,0:54:21.52,Chinese,,0,0,0,,
+Dialogue: 0,0:54:26.92,0:54:29.84,Chinese,,0,0,0,,{\rChinese}你知道我是谁吗?\N{\rEnglish}Yeah. You know who I am?
+Dialogue: 0,0:54:30.00,0:54:33.48,Chinese,,0,0,0,,{\rChinese}你找的就是我\N{\rEnglish}It's me you're looking for.
+Dialogue: 0,0:54:33.64,0:54:36.37,Chinese,,0,0,0,,{\rChinese}你还记得我吗? 你还记得我吗?\N{\rEnglish}You remember me? You remember me?
+Dialogue: 0,0:54:36.52,0:54:38.28,Chinese,,0,0,0,,
+Dialogue: 0,0:54:38.44,0:54:39.77,Chinese,,0,0,0,,
+Dialogue: 0,0:54:43.00,0:54:44.84,Chinese,,0,0,0,,
+Dialogue: 0,0:54:58.48,0:55:00.13,Chinese,,0,0,0,,{\rChinese}没有了\N{\rEnglish}There's no more.
+Dialogue: 0,0:55:00.28,0:55:01.61,Chinese,,0,0,0,,{\rChinese}- 我们走 - 快点\N{\rEnglish}- We're going. - (SVEN) Come on.
+Dialogue: 0,0:55:02.32,0:55:04.40,Chinese,,0,0,0,,{\rChinese}带上那些马\N{\rEnglish}(KJARTAN) Bring the horses.
+Dialogue: 0,0:55:20.80,0:55:23.45,Chinese,,0,0,0,,
+Dialogue: 0,0:55:49.52,0:55:51.01,Chinese,,0,0,0,,
+Dialogue: 0,0:56:11.56,0:56:14.48,Chinese,,0,0,0,,{\rChinese}按理说这些该归小拉格纳的\N{\rEnglish}By right it belongs to young Ragnar.
+Dialogue: 0,0:56:14.88,0:56:18.52,Chinese,,0,0,0,,{\rChinese}是的，但我们该花就花，先活下去\N{\rEnglish}Yes. But we spend what we need to spend. We stay alive.
+Dialogue: 0,0:56:18.68,0:56:21.41,Chinese,,0,0,0,,{\rChinese}我们把实情告诉他人，然后呢\N{\rEnglish}We tell the story and then what?
+Dialogue: 0,0:56:24.56,0:56:27.01,Chinese,,0,0,0,,{\rChinese}我们去投奔别的领主\N{\rEnglish}We find a new lord to serve.
+Dialogue: 0,0:56:32.08,0:56:36.13,Chinese,,0,0,0,,{\rChinese}我不会袖手旁观，让属于我的东西被人夺走\N{\rEnglish}I will not stand by and have everything that's mine taken from me.
+Dialogue: 0,0:56:38.20,0:56:40.01,Chinese,,0,0,0,,{\rChinese}我要回去\N{\rEnglish}I'm going back.
+Dialogue: 0,0:56:40.16,0:56:41.76,Chinese,,0,0,0,,{\rChinese}去哪儿\N{\rEnglish}Where?
+Dialogue: 0,0:56:43.96,0:56:46.04,Chinese,,0,0,0,,{\rChinese}回到起点\N{\rEnglish}To the beginning.
+Dialogue: 0,0:57:32.56,0:57:36.12,Chinese,,0,0,0,,
+Dialogue: 0,0:57:47.84,0:57:49.81,Chinese,,0,0,0,,{\rChinese}- 是斯卡利昂吗？ - 不是，大人\N{\rEnglish}- (AELFRIC) Is it Scallion? - No, my lord.
+Dialogue: 0,0:57:49.96,0:57:53.68,Chinese,,0,0,0,,{\rChinese}- 他看起来像个丹麦人 - 可能是基尔坦的手下\N{\rEnglish}- He looks like a Dane. - Could be one of Kjartan's men.
+Dialogue: 0,0:58:16.20,0:58:19.01,Chinese,,0,0,0,,{\rChinese}我是贝班堡的乌特雷德，我要夺回属于我的一切！\N{\rEnglish}I am Uhtred of Bebbanburg. I shall take what is mine!
+Dialogue: 0,0:58:21.64,0:58:23.56,Chinese,,0,0,0,,{\rChinese}贝班堡是我的！\N{\rEnglish}Bebbanburg's mine!
+Dialogue: 0,0:58:25.36,0:58:27.28,Chinese,,0,0,0,,{\rChinese}备马\N{\rEnglish}Horses.
