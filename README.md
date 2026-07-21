@@ -287,6 +287,4 @@ python ass2sup.py "字幕.ass" -v 1080p -f 23.976
 | `images/` | 存放文档里的效果图 (srt/ass/sup 预览) |
 | `使用说明.md` | 本文档 |
 
-> **放效果图**: 在本文档同目录新建 `images` 文件夹, 把三张截图分别命名为
-> `srt-preview.png`、`ass-preview.png`、`sup-preview.png` 放进去即可自动显示。
-> 想换文件名或用 `.jpg`, 改一下对应章节 `<img src="...">` 里的路径就行。
+
